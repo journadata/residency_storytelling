@@ -27,9 +27,9 @@ This step helped me understand the broad variance in waiting times across Catalo
 
 ## Step 3: Geolocation (Almost)
 
-Initially, I wanted to geolocate all the residency centers to display them on a map. However, geolocating them accurately turned out to be very difficult due to incomplete address data and limitations in the scraped information.
+Initially, I wanted to geolocate all the residency centers to display them on a map. However, geolocating them accurately turned out to be very difficult due to incomplete address data and limitations in the scraped information. 
 
-Rather than get stuck, I chose to leave geolocation for a future iteration and shift focus to something I had wanted to explore for a while: **scroll-driven storytelling with Mapbox**.
+Rather than get stuck, I chose to leave geolocation for a future iteration with a simpler dataset in my next project and shift focus to something I had wanted to explore for a while: **scroll-driven storytelling with Mapbox**.
 
 ## Step 4: Building the Story with Mapbox and Scrollama
 
@@ -138,11 +138,6 @@ You can publish your story using any static file hosting service. I suggest GitH
 - Pandas
 - HTML/CSS/JS
 
-## Acknowledgments
-
-- The Mapbox team for the great template.
-- The creators of Scrollama.js.
-- Everyone making public data (even when not very accessible).
 
 ---
 
