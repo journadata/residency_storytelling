@@ -24,7 +24,7 @@ var config = {
             id: 'intro',
             alignment: 'center',
             title: '',
-            description: 'Imagine needing care for an elderly loved one, only to be told the wait could last over a year. In Catalonia, this is the reality for many families trying to access senior residencies. <br><br> <img src="./assets/residency_population.png" style="width:100%; margin-top:20px;"/>',
+            description: 'Imagine needing care for an elderly loved one, only to be told the wait could last over a year. In Catalonia, this is the reality for many families trying to access senior residencies. <br><br> <img src="./assets/residency_population.png" style="width:60%; margin-top:20px;"/>',
             location: {
                 center: [1.70129, 41.69879],
                 zoom: 7.83,
