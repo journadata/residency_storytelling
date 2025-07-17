@@ -1,0 +1,853 @@
+center_id,descripcio_servei,nom,adreça,titularitat,temps_mitja_espera,places_publiques,places_privades,places_totals
+9353,Residència assistida per a gent gran - temporal o permanent,Residència Canigó,"C. Menorca, 16","Canigó serveis geriàtrics, SL",10 mesosinfo,60,19,79
+9354,Residència assistida per a gent gran - temporal o permanent,Residència Germans Aymar i Puig,"Av. Germans Aymar i Puig, 9","Germans Aymar i Puig, Fundació Privada",4 anys info,30,88,118
+9355,Residència assistida per a gent gran - temporal o permanent,Residencia Geriàtrica els Rosers,"Av. dels Rosers, 40","Lantus, SL",2 anys i 2 mesosinfo,9,26,35
+9357,Residència assistida per a gent gran - temporal o permanent,Residència Francesca Roig (servei de residència assistida),"C. Camí de Sant Nicolau, 6",Fundació Antònia Roura Barbany,2 anys i 3 mesosinfo,27,30,57
+9358,Residència assistida per a gent gran - temporal o permanent,Residència Millet,"C. Camí de Puiggraciós, 1","Millet Park, SL",1 anyinfo,28,18,46
+9360,Residència assistida per a gent gran - temporal o permanent,Residència Millet Park,"C. Camí de Puiggraciós, 1","Millet Park, SL",,,46,
+9361,Residència assistida per a gent gran - temporal o permanent,Can Camp Residencial,"C. Mimosa, 10","Can Camp Residencial, SL",,,50,
+9364,Residència assistida per a gent gran - temporal o permanent,Residencia Hotel Impala,"Urb. Montmar, s/n",Sistemas Residenciales S.A.,3 mesosinfo,91,5,96
+9365,Residència assistida per a gent gran - temporal o permanent,Lantus Arenys Vil·la Betània,"C. Sant Rafael, 33","Grup Lantus, SL",info,10,40,50
+9366,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Titus,"Ctr. N-II, Km 655",Sistemas Residenciales S.A.,4 mesosinfo,80,6,86
+9367,Residència assistida per a gent gran - temporal o permanent,Residència Itaca-Arenys (servei de residència assistida),"C. Pompeu i Fabra, 48","Cal-Tei, SL",6 mesosinfo,67,18,85
+9368,Residència assistida per a gent gran - temporal o permanent,Residència Nostra Senyora del Remei,"C. Nou, 2",Fundació privada residència geriàtrica Nostra Senyora del Remei,9 mesosinfo,24,16,40
+9369,Residència assistida per a gent gran - temporal o permanent,Residència Sant Martí,"Rbl. Francesc Macià, 1",Fundació Privada Vella Terra,4 mesosinfo,97,-3,94
+9370,Residència assistida per a gent gran - temporal o permanent,Llar d'Argentona,"Psg. de la Soleia, 7","Llar d'Argentona, S.L.",3 mesosinfo,29,1,30
+9371,Residència assistida per a gent gran - temporal o permanent,Residència Tercera Edat Santa Berta,"C. Francesc Macià, 39 (Urb. Les Ginesteres)","Residència tercera edat Santa Berta, SL",4 mesosinfo,24,,
+9372,Residència assistida per a gent gran - temporal o permanent,Residència Bonavista,"C. Bellavista, 9","Laia Arquera, SL",,,24,
+9374,Residència assistida per a gent gran - temporal o permanent,Fundació Patronat de la Vila d'Artés - Residència assistida,"C. Hospital, s/n",Fundació Patronat de la Vila d'Artés,2 anysinfo,45,69,114
+9375,Residència assistida per a gent gran - temporal o permanent,Residència Sant Victor,"C. Sant Victor, s/n","Residència Aldama, SL",6 mesosinfo,47,7,54
+9376,Residència assistida per a gent gran - temporal o permanent,Residència assistida Relat,"C. Santiago Rusiñol, s/n","Centre residencial del Bages, SL",9 mesosinfo,68,14,82
+9377,Residència assistida per a gent gran - temporal o permanent,Residència per a la 3a Edat la Font,"C. Enamorats, 1","Residència la Font dels Enamorats, SL",4 mesosinfo,44,10,54
+9378,Residència assistida per a gent gran - temporal o permanent,Residència Can Caló,"C. Major, 11","Can Caló, SLL",1 any i 2 mesosinfo,12,31,43
+9379,Residència assistida per a gent gran - temporal o permanent,Residència Llegat Roca i Pi,"Av. Martí Pujol, 654",Fundació Privada Llegat Roca i Pi,2 anysinfo,104,30,134
+9380,Residència assistida per a gent gran - temporal o permanent,Llar d'Avis Can Bosch,"c. Soletat, 5",Institut Municipal de Serveis Personals de Badalona,2 anys i 2 mesosinfo,20,,
+9381,Residència assistida per a gent gran - temporal o permanent,Residència Danae,"C. Santa Maria, 178","Reslaki, SL",3 anys i 6 mesosinfo,8,65,73
+9382,Residència assistida per a gent gran - temporal o permanent,Residència Ballesol - Badalona,"Av. Navarra, 2-4","Intercentros Ballesol, SA",1 any i 5 mesosinfo,74,86,160
+9383,Residència assistida per a gent gran - temporal o permanent,Residència Domènech i Montaner,"C. Bellavista, 24-30",Institut Municipal de Serveis Personals de Badalona,8 mesosinfo,80,,
+9384,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Berllor,"Pge. Marconi, 10-12","Berllor, S.L.",8 mesosinfo,58,3,61
+9385,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Parc Serentill,"C. Molí de la Torre, 62-72",Generalitat de Catalunya,2 anys i 4 mesosinfo,56,,
+9386,Residència assistida per a gent gran - temporal o permanent,Residencia Merán,"Pge. Riu Mogent, 1","Residencia Merán, SA",3 anys i 3 mesosinfo,28,22,50
+9387,Residència assistida per a gent gran - temporal o permanent,Residència Martal,"C. Marià Benlliure, 14","Llar Tercera Edat Martal, SL",6 mesosinfo,42,,
+9388,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Sant Roc,"Av. del Maresme, 182-190",Generalitat de Catalunya,2 anysinfo,40,,
+9389,Residència assistida per a gent gran - temporal o permanent,Colisée Bagá,"C. Pere Tomic, 9","La Saleta Care, SL",4 mesosinfo,53,24,77
+9390,Residència assistida per a gent gran - temporal o permanent,Casal Oller,"C. Major, 93",Obra Religiosa Social - O.R.S.,,,50,
+9391,Residència assistida per a gent gran - temporal o permanent,Casal Verge de Montserrat (servei de residència assistida),"Pça. Roc Garcia, s/n",Fundació Privada Casal de Verge de Montserrat,2 anys i 1 mesinfo,31,37,68
+9392,Residència assistida per a gent gran - temporal o permanent,Residència Santa Rita,"C. Dr. Dou, 12, ent 2ª","Ajut, S.C.P.",4 mesosinfo,21,3,24
+9393,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran El Mil·lenari,"C. Nou de la Rambla, 47-49",Generalitat de Catalunya,1 any i 8 mesosinfo,62,,
+9394,Residència assistida per a gent gran - temporal o permanent,Residència per a gent gran Acayser del Carme (servei de residència assistida),"C. Carme, 64, prl","Acayser Carme, SL",5 mesosinfo,19,1,20
+9395,Residència assistida per a gent gran - temporal o permanent,"Geros 4, Residència tercera edat","C. Pelai, 9, prl","Gestió de Residències, SL",11 mesosinfo,12,13,25
+9396,Residència assistida per a gent gran - temporal o permanent,Llar de la Mercè,"C. Rull, 1",Familia i Benestar Social - Fundació Privada,5 mesosinfo,25,,
+9397,Residència assistida per a gent gran - temporal o permanent,Residència Collserola,"C. Josep Anselm Clavé, 6, prl","Mamagosa, SL",,,24,
+9399,Residència assistida per a gent gran - temporal o permanent,Residència Moll de la Fusta,"C. Varsòvia, 36","Residència Moll de la Fusta, SL",10 mesosinfo,21,4,25
+9400,Residència assistida per a gent gran - temporal o permanent,Residencia Santa Olga II,"Ctr. de Barcelona, 105-113","Medinaceli Residencia, S.L.U",2 mesosinfo,5,20,25
+9401,Residència assistida per a gent gran - temporal o permanent,Residencia de la Fe,"C. Sant Pere més Alt, 72, ent",Pilar Gámez de la Fe,3 mesosinfo,22,1,23
+9402,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Pare Batllori,"C. Vila i Vilà, 39-41",Generalitat de Catalunya,1 any i 1 mesinfo,90,,
+9403,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Font Florida,"C. Font Florida, 98",Generalitat de Catalunya,1 any i 2 mesosinfo,88,,
+9404,Residència assistida per a gent gran - temporal o permanent,Residència Gran Via Parc (Residència Assistida),"C. Mandoni, 11","Gran Via Parc, SL",2 anys i 3 mesosinfo,52,99,151
+9405,Residència assistida per a gent gran - temporal o permanent,Centre per a la gent gran Vitalia Sants,"C. Mandoni, 17","Vitalia Home, SL",1 any i 3 mesosinfo,122,62,184
+9408,Residència assistida per a gent gran - temporal o permanent,Acolliment a la Vellesa,"C. Pujades, 273-277, 1er","Assistència i Confort, SL",,,22,
+9409,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Jaume Batlle,"C. Fernando Poo, 45",Generalitat de Catalunya,1 any i 2 mesosinfo,78,,
+9410,Residència assistida per a gent gran - temporal o permanent,Residencia Venero,"C. Venero, 4-6",Fundació Privada Pere Relats,2 anys i 5 mesosinfo,55,43,98
+9412,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Poblenou,"C. LLull, 332",Generalitat de Catalunya,2 anys i 6 mesosinfo,90,,
+9414,Residència assistida per a gent gran - temporal o permanent,Residència l'Eixample III,"C. Muntaner, 402, prl 2ª","Residencia Rosa Tejedor, SL",2 mesosinfo,18,,
+9415,Residència assistida per a gent gran - temporal o permanent,Llar-residència per a gent gran Associació Pro Avis en Família,"C. Muntaner, 402, 1er",Fundació Privada Via Activa,5 mesosinfo,18,2,20
+9418,Residència assistida per a gent gran - temporal o permanent,Residència Assistida Ricard Julià - Club d'Avis les Saleses,"C. València, 263, 2on",Associació Club d'Avis Les Saleses,3 mesosinfo,22,1,23
+9419,Residència assistida per a gent gran - temporal o permanent,Llar-Residència per a gent gran Anna,"C. Aragó, 268, 1er 2ª","Centro Geriátrico Anna, S.L.",3 mesosinfo,25,,
+9421,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica La Pau,"Pça. Dr. Letamendi, 35, 2on 2ª","Vallstira, S.L.",7 mesosinfo,16,1,17
+9422,Residència assistida per a gent gran - temporal o permanent,Residencia Geriátrica Consejo de Ciento,"C. Consell de Cent, 276, 1er","Residencia Geriátrica Consejo de Ciento, SL",3 mesosinfo,19,4,23
+9423,Residència assistida per a gent gran - temporal o permanent,Residència el Jardí 2000,"Av. Gran Via de les Corts Catalanes, 618 pral.1a-1r 1a","Residència el Jardí 2000, SL",4 mesosinfo,18,6,24
+9424,Residència assistida per a gent gran - temporal o permanent,Residència L'Eixample,"C. Provença, 245, pral. 1r i 2a","KALUNGA AVIS, SL unipersonal",3 mesosinfo,25,,
+9425,Residència assistida per a gent gran - temporal o permanent,Residència Plaça de la Vila,"C. Bogatell, 43, Entrl 1ª","Gerivel, S.L.",3 mesosinfo,13,17,30
+9426,Residència assistida per a gent gran - temporal o permanent,Residència assistida Ramon Sala - Club d'Avis les Saleses,"C. Aragó, 344, prl",Associació Club d'Avis Les Saleses,3 mesosinfo,17,,
+9430,Residència assistida per a gent gran - temporal o permanent,Residencia Seribel,"C. Bailèn, 51, pral. 1r. 2a.","Serian Residencias, S.L.",,,24,
+9431,Residència assistida per a gent gran - temporal o permanent,Residència Mussol l'Eixample,"C. Aragó, 293","Ansol Geriàtrics, SL",10 mesosinfo,57,43,100
+9432,Residència assistida per a gent gran - temporal o permanent,Centro gerontológico llar Girona,"C. Girona, 51, prl 2ª","Adauri Geriàtrics, SL",,,22,
+9434,Residència assistida per a gent gran - temporal o permanent,Residència Rosa Franch (servei de residència assistida),"C. Consell de Cent, 403, prl",Associació Club d'Avis Les Saleses,2 mesosinfo,15,1,16
+9436,Residència assistida per a gent gran - temporal o permanent,Residencia geriátrica Urquinaona II,"Pça. Urquinaona, 1, 3er 1ª","Assistential Cresgra Services, SL",4 mesosinfo,19,1,20
+9438,Residència assistida per a gent gran - temporal o permanent,Residència Taber,"Av. Gran Via de les Corts Catalanes, 625, prl","Residencia Geriatrica Les Palmeres, SL",4 mesosinfo,21,3,24
+9441,Residència assistida per a gent gran - temporal o permanent,Centro Geriátrico Gure-Etzea,"C. Bailèn, 28, prl","Centro Geriátrico Gure-Etxea, S.L.",,,20,
+9442,Residència assistida per a gent gran - temporal o permanent,Residència Canava,"C. Bailèn, 46, pral. 1a i 2a","Residencia Canava 2002, SL",2 mesosinfo,19,1,20
+9443,Residència assistida per a gent gran - temporal o permanent,Royal Llar,"Av. Gran Via de les Corts Catalanes, 695, ent","Royal Llar, SL",4 mesosinfo,32,4,36
+9445,Residència assistida per a gent gran - temporal o permanent,"Residència ""Com a Casa""","Av. Gran Via de les Corts Catalanes, 651, pral 1a i 2a","Febaz de geriàtria, SL",,,25,
+9448,Residència assistida per a gent gran - temporal o permanent,Residencia geriátrica Urquinaona I,"Pça. Urquinaona, 1, 2on 1ª","Assistential Cresgra Services, SL",5 mesosinfo,24,1,25
+9449,Residència assistida per a gent gran - temporal o permanent,Residència el Balancí,"Pça. Tetuan, 2, 1r 1a i 2a","Residència el Balancí 2000, SL",1 any i 9 mesosinfo,12,11,23
+9450,Residència assistida per a gent gran - temporal o permanent,Residència Olivaret Eixample,"Pça. Tetuan, 2, pral. 1a i 2a","Fina Vernet, SL",3 anys i 8 mesosinfo,13,11,24
+9452,Residència assistida per a gent gran - temporal o permanent,Residència El Mussol,"C. Bruc, 32, prl",Mussol 2020 S.L,5 mesosinfo,13,,
+9453,Residència assistida per a gent gran - temporal o permanent,Residència 3a edat Verge del Roser,"C. Casp, 82, prl 2ª","IPF Servicios Geriátricos, SL",3 mesosinfo,17,1,18
+9456,Residència assistida per a gent gran - temporal o permanent,Centro Geriátrico Gure-Etzea III,"C. Bailèn, 28, 1er 1ª","Centro Geriátrico Gure-Etxea, S.L.",,,15,
+9457,Residència assistida per a gent gran - temporal o permanent,IPF Servicios Geriátricos,"C. Caspe, 82, 4rt 2ª","IPF Servicios Geriátricos, SL",1 mesinfo,15,1,16
+9459,Residència assistida per a gent gran - temporal o permanent,Residència Sidi Bel 2001,"Av. Gran Via de les Corts Catalanes, 540, 1er 1ª","Sidi Bel 2001, S.L.",1 any i 5 mesosinfo,11,14,25
+9460,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica L'Estel III,"C. Aragó, 140, prl","Saraibra, S.L.",3 mesosinfo,24,1,25
+9462,Residència assistida per a gent gran - temporal o permanent,Residencia Asistida las Violetas,"Av. Gran Via de les Corts Catalanes, 573, 1er","Atención integral personalizada, SL",5 mesosinfo,25,,
+9464,Residència assistida per a gent gran - temporal o permanent,Sanitas Residencial Consell de Cent,"C. Consell de Cent, 210-212","Sanitas Mayores, SL",5 anys i 4 mesosinfo,15,144,159
+9467,Residència assistida per a gent gran - temporal o permanent,Llar Residencial Meran - Lesseps,"C. Santa Àgata, 41","Llar Residencial Meran, S.L.",2 mesosinfo,52,1,53
+9468,Residència assistida per a gent gran - temporal o permanent,Verdi Residencial,"C. Verdi, 142","Médica Residencial, SL",3 mesosinfo,29,,
+9474,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Verdi,"C. Verdi, 151-155","Residència Geriàtrica Verdi, SL",2 anys i 5 mesosinfo,12,33,45
+9475,Residència assistida per a gent gran - temporal o permanent,Residència Salus Gràcia,"C. Mare de Deu dels Desamparats, 2-4","Salus Habitat, SL",1 any i 1 mesinfo,36,45,81
+9476,Residència assistida per a gent gran - temporal o permanent,Residència Gràcia,"C. Gran de Gràcia, 226",La Daurada de Gràcia,,,40,
+9478,Residència assistida per a gent gran - temporal o permanent,Residència assistida gent gran,"Av. Gran Via de les Corts Catalanes, 800, prl","Residència assistida gent gran, SL",1 any i 1 mesinfo,5,20,25
+9479,Residència assistida per a gent gran - temporal o permanent,Residencia las Acacias,"C. Castillejos, 260-266","Complejo Mar Bella, SA",2 anys i 4 mesosinfo,58,155,213
+9480,Residència assistida per a gent gran - temporal o permanent,Residència Municipal Fortpienc,"C. Sardenya, 139-147",Ajuntament de Barcelona,11 mesosinfo,130,7,137
+9481,Residència assistida per a gent gran - temporal o permanent,Sanitas Residencial Sagrada Familia,"C. Castillejos, 256-258","Sanitas Mayores, SL",5 anys i 7 mesosinfo,15,133,148
+9482,Residència assistida per a gent gran - temporal o permanent,Equipament per a Gent Gran Josep Miracle,"Pça. Bonet i Muixí, 1",Ajuntament de Barcelona,2 anys i 8 mesosinfo,24,26,50
+9483,Residència assistida per a gent gran - temporal o permanent,Llar d'avis Passeig de Gràcia,"C. Gavà, 11","Llar d'Avis Passeig de Gràcia, S.L.",6 mesosinfo,43,7,50
+9484,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Mossèn Vidal i Aunós,"C. Navarra, 12-28",Generalitat de Catalunya,1 any i 1 mesinfo,112,,
+9485,Residència assistida per a gent gran - temporal o permanent,Sanitas Residencial Les Corts,"C. Evarist Arnús, 22-32","Sanitas Mayores, SL",4 anys i 2 mesosinfo,53,255,308
+9486,Residència assistida per a gent gran - temporal o permanent,Residencia Centre Parc (servei de residència assistida),"Av. Madrid, 210","Residencia Centre Parc 5 Estrellas, SL",3 anys i 8 mesosinfo,24,138,162
+9487,Residència assistida per a gent gran - temporal o permanent,Residència Francesc Layret,"Av. Gran Via de les Corts Catalanes, 477",Ajuntament de Barcelona,1 any i 9 mesosinfo,28,38,66
+9490,Residència assistida per a gent gran - temporal o permanent,Residencia Arrels,"Av. Gran Via de les Corts Catalanes, 429, ent 1ª","Residencia Arrels, S.L.",,,25,
+9491,Residència assistida per a gent gran - temporal o permanent,Residència Nova Convivència 1,"Av. Gran Via de les Corts Catalanes, 429, 1er 1ª","Nova Convivència, SL",7 mesosinfo,4,21,25
+9492,Residència assistida per a gent gran - temporal o permanent,Residència Nova Convivència 2,"Av. Gran Via de les Corts Catalanes, 429, 2on 1ª","Nova Convivència, SL",,,18,
+9493,Residència assistida per a gent gran - temporal o permanent,Residència Vallserena,"Av. Gran Via de les Corts Catalanes, 429, prl 2ª","Residència Vallserena-2, SL",10 mesosinfo,2,12,14
+9494,Residència assistida per a gent gran - temporal o permanent,Residència Nova Alegria,"Av. Gran Via de les Corts Catalanes, 420, bxos. i pral","Residència Nova Alegria, SL",info,12,21,33
+9495,Residència assistida per a gent gran - temporal o permanent,Ballesol - Fabra i Puig,"C. Fabra i Puig, 139-141","Intercentros Ballesol, SA",1 any i 4 mesosinfo,32,104,136
+9497,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Porta,"C. Maladeta, 30",Generalitat de Catalunya,2 anys i 4 mesosinfo,88,,
+9498,Residència assistida per a gent gran - temporal o permanent,Residència Nin,"Psg. Andreu Nin, 69-71","Residència Nin, SL",,,25,
+9499,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Molí - Via Favència,"C. Molí, 67",Generalitat de Catalunya,1 any i 10 mesosinfo,100,,
+9501,Residència assistida per a gent gran - temporal o permanent,Centro Vallvidrera,"C. Algarves, 23","Edelweis Ibérica, S.L.",,,75,
+9503,Residència assistida per a gent gran - temporal o permanent,Residencia Armonia,"C. Pomaret, 6","AAF MAS DCA, SL",5 mesosinfo,42,3,45
+9504,Residència assistida per a gent gran - temporal o permanent,Residència La Nativitat de Nostra Senyora (servei de residència assistida),"C. Buïgas, 23",Hermanas Franciscanas Misioneras de la Natividad de Nuestra Señora - Buigas,2 anys i 2 mesosinfo,24,51,75
+9506,Residència assistida per a gent gran - temporal o permanent,Sant Gervasi Residencial,"C. Martorell i Penya, 2 i 6","Sant Gervasi Paradís, SL",6 mesosinfo,32,3,35
+9507,Residència assistida per a gent gran - temporal o permanent,Institut del Desert de Sarrià (servei de residència assistida),"Psg. de Santa Eulàlia, 23",Fundació Institut del Desert de Sarrià,2 anys i 8 mesosinfo,40,44,84
+9508,Residència assistida per a gent gran - temporal o permanent,Residencia San Ignacio de Loyola,"C. Major de Sarrià, 238",Hermanas Misioneras de la Natividad de Nuestra Señora.(S. Ignacio de Loyola),1 any i 1 mesinfo,36,17,53
+9509,Residència assistida per a gent gran - temporal o permanent,Residència Betània (servei de residència assistida),"Av. Vallvidriera, 34",Compañia Hijas de la Caridad-Residencia Betania,8 mesosinfo,64,16,80
+9510,Residència assistida per a gent gran - temporal o permanent,Residencial Mas d'Anglí,"C. Institut Químic de Sarrià, 43-47","Aditnalta Promocions, SL",2 anys i 2 mesosinfo,12,81,93
+9513,Residència assistida per a gent gran - temporal o permanent,Residència Assistida DomusVi Bonanova,"C. Calatrava, 87","SAR Residencial y Asistencial,SAU",,,101,
+9514,Residència assistida per a gent gran - temporal o permanent,Residència la Trobada,"C. Joan d'Àustria, 105, 1er 1ª","Residència la Trobada, SL",2 anys i 7 mesosinfo,1,33,34
+9515,Residència assistida per a gent gran - temporal o permanent,Residència Parc del Clot,"Rbl. Poblenou, 187","Gerond Medic, SL",2 anys i 6 mesosinfo,18,66,84
+9516,Residència assistida per a gent gran - temporal o permanent,Residència Amavir Diagonal,"C. Llacuna, 120-122","Planiger, SA",3 anys i 10 mesosinfo,24,132,156
+9517,Residència assistida per a gent gran - temporal o permanent,Residència Ballesol - Almogàvers,"C. Almogàvers, 32-38","Intercentros Ballesol, SA",9 mesosinfo,47,142,189
+9519,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran La Verneda,"C. Cantàbria, 28",Generalitat de Catalunya,4 anysinfo,80,,
+9520,Residència assistida per a gent gran - temporal o permanent,Residencia Kristel Oro,"Pge. Arriassa, 2-6","Kristel Residencial, SL",1 anyinfo,62,22,84
+9521,Residència assistida per a gent gran - temporal o permanent,Residència 3a Edat Llar de l'Avi,"C. Muntaner, 411, prl 2ª",Residència de l'avi 2010 SL,2 mesosinfo,15,,
+9522,Residència assistida per a gent gran - temporal o permanent,Residencial Augusta Park,"C. Copèrnic, 30-32","Geriàtric Augusta, SL",,,121,
+9525,Residència assistida per a gent gran - temporal o permanent,Residència El Meu Jardí,"C. Quatre Camins, 74","Take Advantage, SL",1 any i 2 mesosinfo,15,10,25
+9526,Residència assistida per a gent gran - temporal o permanent,Sanitas Residencial Altanova,"C. Quatrecamins, 95","Sanitas Mayores, SL",2 anys i 11 mesosinfo,33,117,150
+9527,Residència assistida per a gent gran - temporal o permanent,Residencial Sant Gervasi Parc (servei de residència assistida),"c. Teodora Lamadrid, 7","Geriàtric Sant Gervasi Parc, SL",,,135,
+9528,Residència assistida per a gent gran - temporal o permanent,Refugi d'Obreres (servei de residència assistida),"Av. República Argentina, 16-18",Fundació Refugi d'Obreres,4 anys i 3 mesosinfo,30,60,90
+9529,Residència assistida per a gent gran - temporal o permanent,Residència Jubany,"Av. República Argentina, 236","Residència Jubany, S.A.",9 mesosinfo,29,14,43
+9531,Residència assistida per a gent gran - temporal o permanent,Hogar La Salud,"C. Cardedeu, 47, tor","Hogar La Salud, S.L.",3 mesosinfo,32,3,35
+9532,Residència assistida per a gent gran - temporal o permanent,Centro Residencial Putxet,"C. Roca i Batlle, 31-35, tor","Putxet Servicios Asistenciales, SL",,,51,
+9533,Residència assistida per a gent gran - temporal o permanent,Residència assistida per a gent gran Vibentia Mullerat,"C. Portell, 11-13","Residència Mullerat, SA",1 any i 2 mesosinfo,18,7,25
+9534,Residència assistida per a gent gran - temporal o permanent,Residència Santa Creu (servei de residència assistida),"C. Elisa, 22",Residència Sta. Cruz de C. Elisa 22 Barcelona-Congregació de Germanes Hospitalàries de la Sta. Creu,2 anys i 5 mesosinfo,5,43,48
+9535,Residència assistida per a gent gran - temporal o permanent,Residència Assistida DomusVi Regina,"C. Mare de Déu del Coll, 22-30","SAR Residencial y Asistencial,SAU",1 any i 5 mesosinfo,95,70,165
+9536,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Els Jardins de Barcelona,"C. Baró de la Barre, 5","Residència Geriàtrica Els Jardins de Barcelona, SL",1 any i 9 mesosinfo,15,10,25
+9537,Residència assistida per a gent gran - temporal o permanent,Villa Salud,"C. Francisco Alegre, 26","Cover Avis, SL unipersonal",,,35,
+9539,Residència assistida per a gent gran - temporal o permanent,Adegius Residencial,"C. Alegre de Dalt, 72-74","Adegius, SL",2 mesosinfo,38,2,40
+9540,Residència assistida per a gent gran - temporal o permanent,Residencia Virgen de Lourdes,"C. Vilafranca, 22","Residencia Virgen de Lourdes, S.L.",9 mesosinfo,22,8,30
+9542,Residència assistida per a gent gran - temporal o permanent,Residència Francisco Darder (servei de residència assistida),"C. Cardoner, 49",Hermanas Franciscanas Misioneras de la Natividad de Nuestra Señora-Francisco Darder,2 anys i 7 mesosinfo,20,20,40
+9543,Residència assistida per a gent gran - temporal o permanent,Residència Sol de Tardor,"C. Francesc Alegre, 24","Sol de Tardor, SL",1 any i 7 mesosinfo,5,16,21
+9544,Residència assistida per a gent gran - temporal o permanent,Residència Assistida DomusVi La Salut,"C. Antequera, 8-18","SAR Residencial y Asistencial,SAU",2 anys i 9 mesosinfo,39,79,118
+9545,Residència assistida per a gent gran - temporal o permanent,Residència Sharedx Care,"C. Polònia, 37-41","Sharedx Care, SL",3 anys i 3 mesosinfo,11,59,70
+9546,Residència assistida per a gent gran - temporal o permanent,Residencial Parc Güell (residència assistida),"C. Mare de Déu de la Salut, 39-43","Residencial Parc Güell, SL",1 any i 4 mesosinfo,2,38,40
+9547,Residència assistida per a gent gran - temporal o permanent,Residència Sagrada Família 1,"C. Rosselló, 344, àtic 1a i 2a, escala dreta",Associació Sagrada Família per a Ancians,1 any i 6 mesosinfo,12,5,17
+9548,Residència assistida per a gent gran - temporal o permanent,Residència Sagrada Família-2,"C. Rosselló, 340, 1r 3a, escala esquerra",Associació Sagrada Família per a Ancians,7 mesosinfo,9,4,13
+9549,Residència assistida per a gent gran - temporal o permanent,Residència Arcoiris,"C. Sicília, 402, 2on","Rocaguerra, SL",,,24,
+9550,Residència assistida per a gent gran - temporal o permanent,Residencia Arcoiris 2,"C. Sicília, 402, prl 2ª","Rocaguerra, SL",,,13,
+9551,Residència assistida per a gent gran - temporal o permanent,Geriàtric Nogués,"C. La Pau, 3-9","Geriàtric Nogués, SL",8 mesosinfo,47,19,66
+9552,Residència assistida per a gent gran - temporal o permanent,Residència Assistida DomusVi Claret,"Av. Sant Antoni Mª Claret, 200","Quavitae Servicios Asistenciales, SA",2 anys i 4 mesosinfo,92,170,262
+9553,Residència assistida per a gent gran - temporal o permanent,Sanitas Residencial Provença,"C. Provença, 514-520","Sanitas Mayores, SL",2 anys i 5 mesosinfo,15,109,124
+9554,Residència assistida per a gent gran - temporal o permanent,Los Tilos. Residència 3ª Edat,"C. Sardenya, 480-490","Medin-1, SA",2 anys i 7 mesosinfo,77,181,258
+9555,Residència assistida per a gent gran - temporal o permanent,Lepant Residencial Residència assistida,"C. Lepant, 401-403","Lepant Residencial, Q.G.G., SL",1 any i 3 mesosinfo,59,134,193
+9557,Residència assistida per a gent gran - temporal o permanent,ORS - Residència assistida,"C. Rosselló, 380-382",Obra Religiosa Social - O.R.S.,,,32,
+9558,Residència assistida per a gent gran - temporal o permanent,Bouco Barcelona Guinardó,"Rda. Guinardó, 48-50","Emeis Ibérica, SAU",,,150,
+9559,Residència assistida per a gent gran - temporal o permanent,Residència 3a. Edat Sibelius,"C. Juan Sibelius, 1","Residència gent gran Sibelius, SL Unipersonal",4 mesosinfo,28,,
+9560,Residència assistida per a gent gran - temporal o permanent,Residencia Geriátrica San Pablo,"C. Coll i Vehí, 26","Residencia Geriátrica San Pablo, S.L.",1 anyinfo,50,22,72
+9561,Residència assistida per a gent gran - temporal o permanent,Residència Marvi Park,"C. Mallorca, 603-609, prl","Line Investment, SL",2 anys i 9 mesosinfo,11,55,66
+9562,Residència assistida per a gent gran - temporal o permanent,Residència Santa Olga,"C. Ripollès, 75 bajos","Residencia Olga,SL",11 mesosinfo,14,11,25
+9565,Residència assistida per a gent gran - temporal o permanent,Centre gerontològic Anna,"C. Pinar del Rio, 10","Geriàtrics Isern i Gascon, SL",4 anys i 1 mesinfo,9,23,32
+9566,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran La Sagrera,"C. Berenguer de Palou, 102",Generalitat de Catalunya,2 anys i 11 mesosinfo,96,,
+9567,Residència assistida per a gent gran - temporal o permanent,Residencial Margal,"c. Felip II, 42, bxs","Residència Margal, SL",info,1,24,25
+9569,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Les Corts,"C. Montnegre, 33",Generalitat de Catalunya,2 anysinfo,85,,
+9571,Residència assistida per a gent gran - temporal o permanent,Casa Asil de Sant Andreu de Palomar (servei de residència assistida),"C. Agustí i Milà, 78",Fundació Privada Casa Asil de Sant Andreu de Palomar,2 anysinfo,112,40,152
+9572,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran del Bon Pastor,"C. Augusto César Sandino, 7-9",Generalitat de Catalunya,11 mesosinfo,92,,
+9573,Residència assistida per a gent gran - temporal o permanent,Residencia Geriátrica Bon Viure,"C. Campoamor, 56, tor",Asociación Residencias Geriátricas Bon Viure,,,25,
+9574,Residència assistida per a gent gran - temporal o permanent,Residència el Vent,"C. del Vent, 4 bis (Torre)","Geritras 2006, SL",2 anysinfo,11,14,25
+9575,Residència assistida per a gent gran - temporal o permanent,Masdeu Hogar,"C. Mestre Dalmau, 3-5","Masdeu Hogar, S.L.",Més de 3 anysinfo,2,43,45
+9578,Residència assistida per a gent gran - temporal o permanent,Hogar geriátrico Coloma,"C. Pitàgores, 14","Hogar geriátrico Coloma, SL",1 any i 2 mesosinfo,23,17,40
+9579,Residència assistida per a gent gran - temporal o permanent,Centre residencial Campoamor,"C. Campoamor, 1","Residencia Font Fargas, SL",info,3,40,43
+9581,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Star (residència assistida),"Psg. Maragall, 306","Residència Geriàtrica Star, S.L.",8 mesosinfo,13,12,25
+9582,Residència assistida per a gent gran - temporal o permanent,Residencia Idea Vilapicina,"C. Vilapicina, 21-25","Idea Servicios de Gestión Asistencial, SL",,,70,
+9583,Residència assistida per a gent gran - temporal o permanent,La Teva Residència,"C. Campoamor, 48","Inverconave Ibérica, SL",,,44,
+9584,Residència assistida per a gent gran - temporal o permanent,Centre Residencial Dovela,"C. Eduard Todà, 45","Suara Equipaments Socials, SL",info,15,65,80
+9585,Residència assistida per a gent gran - temporal o permanent,Residència Pedrell,"C. Pedrell, 52","Residencia Font Fargas, SL",3 anys i 9 mesosinfo,11,40,51
+9586,Residència assistida per a gent gran - temporal o permanent,Residència Desalup-Horta,"C. Baixada de la Plana, 7","DESALUP, S.L",1 any i 3 mesosinfo,24,10,34
+9587,Residència assistida per a gent gran - temporal o permanent,Los Olivos. Residencia tercera edad,"C. Montserrat de Casanovas, 201-205","Pareslap, SL",1 any i 5 mesosinfo,25,64,89
+9588,Residència assistida per a gent gran - temporal o permanent,Residència Santa Rita Horta,"C. Baixada de la Plana, 16-18","Assistential Cresgra Services, SL",2 anys i 3 mesosinfo,28,43,71
+9589,Residència assistida per a gent gran - temporal o permanent,Sanitas Residencial Bonaire,"C. Alt de Pedrell, 100-120","Sanitas Mayores, SL",2 anys i 10 mesosinfo,53,67,120
+9590,Residència assistida per a gent gran - temporal o permanent,Residencia Bonavita,"C. Pedrell, 111-115","Residencia Bonavita, SL",3 anys i 3 mesosinfo,39,21,60
+9591,Residència assistida per a gent gran - temporal o permanent,El Mirador de Font d'en Fargues,"C. Gallecs, 14-16","El Mirador de Font d'en Fargues, SL",10 mesosinfo,39,1,40
+9592,Residència assistida per a gent gran - temporal o permanent,Centre assistencial Raset,"Pge. Capdevila, 8-10","Residència Raset, S.L.",7 mesosinfo,97,9,106
+9593,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Trinitat Nova,"C. La Fosca, 4-8",Generalitat de Catalunya,1 any i 3 mesosinfo,55,,
+9594,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Vallbona,"C. Pierola, 22",Generalitat de Catalunya,1 any i 7 mesosinfo,90,,
+9595,Residència assistida per a gent gran - temporal o permanent,Casa de Família (servei de residència assistida),"Psg. Reina Elisenda de Montcada, 7 bis",Casa de Familia de C. Carmen Karr 3 Barcelona,3 anys i 10 mesosinfo,5,25,30
+9597,Residència assistida per a gent gran - temporal o permanent,Pedralbes Park Residencial,"C. Pere II de Montcada, 20","Adquisición, Conservación y Explotación de Bienes Inmuebles ACEBI, SL",6 mesosinfo,19,4,23
+9600,Residència assistida per a gent gran - temporal o permanent,Hospital de Sant Miquel,"Psg. de la Vall d'Hebron, 161-179",Fundació Albà,1 any i 8 mesosinfo,96,19,115
+9602,Residència assistida per a gent gran - temporal o permanent,Residència Assistida Sant Josep (servei de residència assistida),"Psg. de la Vall d'Hebron, 157-169",Residencia Geriátrica San José Hermanas Franciscanas Sagrados Corazones,1 any i 5 mesosinfo,26,53,79
+9603,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Horta,"C. Josep Sangenís, s/n",Generalitat de Catalunya,1 any i 4 mesosinfo,72,,
+9604,Residència assistida per a gent gran - temporal o permanent,Residencial Bacumar,"C. Domènech i Montaner, 2-10","Residencial Bacumar, SL",4 mesosinfo,25,,
+9605,Residència assistida per a gent gran - temporal o permanent,Llar Sant Jordi (servei de residència assistida),"Psg. Vall d'Hebron, 135-141","Clínica Barceloneta, SA",2 anys i 11 mesosinfo,107,74,181
+9606,Residència assistida per a gent gran - temporal o permanent,Centre Collserola (servei de residència assistida),"Psg. de la Vall d'Hebrón, 159, 169","Mutual Gestión Integral, SL",1 any i 10 mesosinfo,28,66,94
+9607,Residència assistida per a gent gran - temporal o permanent,Residencia Valle Hebrón,"C. Olvan, 5-11","Residencia Valle Hebrón, SL",5 mesosinfo,44,3,47
+9609,Residència assistida per a gent gran - temporal o permanent,Residència Amavir Horta,"Av. Can Marcet, 11","Planiger, SA",5 anysinfo,5,176,181
+9610,Residència assistida per a gent gran - temporal o permanent,Residencia per a gent gran Emera Sant Genis,"c. Natzaret, 16","Geros Azur, SLU",2 anys i 5 mesosinfo,30,79,109
+9612,Residència assistida per a gent gran - temporal o permanent,Residencial Mas Piteu,"C. Natzaret, 67-81","Aditnalta Promocions, SL",4 anys i 5 mesosinfo,21,74,95
+9613,Residència assistida per a gent gran - temporal o permanent,"Ronda de Dalt Residencial, Residència Assistida","C. Pare Mariana, 15",Ronda de Dalt Residencial SL,3 anysinfo,39,126,165
+9614,Residència assistida per a gent gran - temporal o permanent,Residència Sant Daniel,"C. Londres, 94, 1er 1ª","Residencias Sant Daniel, S.L.",2 anys i 7 mesosinfo,5,14,19
+9619,Residència assistida per a gent gran - temporal o permanent,Residència Ressi Bonaire,"Av. Diagonal, 382, prl 2ª","Ressi Bonaire, SL",7 mesosinfo,14,9,23
+9620,Residència assistida per a gent gran - temporal o permanent,Residencia Tercera Edad Diagonal,"Psg. de Sant Joan, 104, 3er 2ª","Residencia Tercera Edad Diagonal, S.L.",,,20,
+9621,Residència assistida per a gent gran - temporal o permanent,Residència 3a. Edat Bon Repòs,"Psg. de Sant Joan, 156","Edad 2000, S.L.",10 mesosinfo,86,40,126
+9622,Residència assistida per a gent gran - temporal o permanent,Residència Sidibel Diagonal,"Ctr. de Collblanc, 167, baixos","Sidibel Diagonal, SL",5 mesosinfo,16,4,20
+9623,Residència assistida per a gent gran - temporal o permanent,Residència Bruc,"C. Bruc, 151, 1er 1ª","Nurielo, SL",6 mesosinfo,25,5,30
+9625,Residència assistida per a gent gran - temporal o permanent,Residència Verdaguer,"Av. Diagonal, 382, 2on 2ª","Pratena III, SLU",4 mesosinfo,11,1,12
+9628,Residència assistida per a gent gran - temporal o permanent,Residència Claror,"C. Girona, 131, 4rt 1ª",Carmen Rosa Valverde Obando,,,11,
+9629,Residència assistida per a gent gran - temporal o permanent,Residència Casa Nostra,"Av. Diagonal, 369, 2on","Rassiss Residencias, SL",4 mesosinfo,22,1,23
+9630,Residència assistida per a gent gran - temporal o permanent,Senior Centre - Residència,"C. Mallorca, 340","Senior Centre, S.L.",4 mesosinfo,48,1,49
+9631,Residència assistida per a gent gran - temporal o permanent,Residencia Hermanas del Sagrado Corazón de Jesús y Santos Ángeles (servei de residència assistida),"C. Bruc, 131-137",Asociación de las Hermanas del Sagrado Corazón de Jesús y Santos Angeles,,,40,
+9633,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Bertran i Oriola,"C. Carbonell, 4-6",Generalitat de Catalunya,10 mesosinfo,92,,
+9634,Residència assistida per a gent gran - temporal o permanent,Residència Parc del Guinardó,"C. Garriga i Roca, 62-64",Ajuntament de Barcelona,7 mesosinfo,32,13,45
+9635,Residència assistida per a gent gran - temporal o permanent,Residència geriàtrica Caliu,"C. Vinyals, 34","Tuari, SL",9 mesosinfo,33,13,46
+9636,Residència assistida per a gent gran - temporal o permanent,Residència Baró,"C. Segle XX, 16-18","Residències Baró, SL",6 mesosinfo,32,23,55
+9637,Residència assistida per a gent gran - temporal o permanent,Residència les Dàlies,"C. Varsòvia, 16","Residencial Varsòvia, SL",,,42,
+9638,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Mercat del Guinardó,"C. de l'Oblit, 29 (cant. Ptge de Llívia)",Generalitat de Catalunya,1 any i 7 mesosinfo,99,,
+9639,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Alchemika,"C. St. Antoni M. Claret, 356-360",Generalitat de Catalunya,2 anys i 3 mesosinfo,98,,
+9640,Residència assistida per a gent gran - temporal o permanent,Residència Parc Central,"Psg. Valldaura, 142-146, bxs","Residències Parc Central 2002, SL",2 anys i 2 mesosinfo,8,26,34
+9641,Residència assistida per a gent gran - temporal o permanent,Residència l'Estel d'Horta,"Psg. Valldaura, 92",L'Estel d'Horta SL.,1 any i 6 mesosinfo,42,2,44
+9642,Residència assistida per a gent gran - temporal o permanent,Centre Residencial Novaurora,"C. Tarragona, 8","Adult Protec, SL",5 mesosinfo,33,17,50
+9645,Residència assistida per a gent gran - temporal o permanent,Llar Residència Els Saulons,"Av. Castell de Montbui, 259","Llar residència Magem, SL",,,40,
+9646,Residència assistida per a gent gran - temporal o permanent,Residència Bellaire (servei de residència assistida),"C. Eucaliptus, 18 (Urb. St. Crist)","Bellaire, SL",1 any i 2 mesosinfo,27,13,40
+9647,Residència assistida per a gent gran - temporal o permanent,Residència Bellavista,"C. Església, 33-35",Fundació Privada Domingo Bochaca,7 mesosinfo,22,11,33
+9648,Residència assistida per a gent gran - temporal o permanent,Residència Floridadorada,"C. Pau Casals, 5","Remediets, SL",2 mesosinfo,32,10,42
+9649,Residència assistida per a gent gran - temporal o permanent,Residència Vila de Caldes,"C. Santema, 15","Residència Vila de Caldes, S.L.",,,28,
+9650,Residència assistida per a gent gran - temporal o permanent,Residència Santa Susanna,"C. Font i Boet, 16",Fundació Santa Susanna,1 any i 8 mesosinfo,60,26,86
+9652,Residència assistida per a gent gran - temporal o permanent,La LLar Nostra,"Psg. de la Circumval·lació de Can Valls, Parcel·la 542","La Llar Nostra 2018, SL",,,18,
+9653,Residència assistida per a gent gran - temporal o permanent,La Nostra Llar II,"C. Ferreries, 1-3","La Llar Nostra 2018, SL",3 anys i 8 mesosinfo,12,44,56
+9654,Residència assistida per a gent gran - temporal o permanent,Residència La Maresma (servei de residència assistida),"Ctr. d'Hortsavinya, Km 1'2","Residència La Maresma, SL",3 mesosinfo,150,17,167
+9655,Residència assistida per a gent gran - temporal o permanent,Lantus Calella,"C. Balmes, 152","Grup Lantus, SL",5 mesosinfo,64,22,86
+9657,Residència assistida per a gent gran - temporal o permanent,Casal Mare de Déu de Fàtima,"C. Sant Isidre, 44-46",Fundació Mare de Déu de Fàtima,3 mesosinfo,43,4,47
+9658,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Mar i Sol,"C. Costa i Fornaguera, 112","Residència Geriàtrica Calella Mar i Sol, SL",4 mesosinfo,133,44,177
+9659,Residència assistida per a gent gran - temporal o permanent,Centre residencial per a gent gran de Callús,"C. Francesc Macià, 25 1r i 2n",Consorci d'Atenció a la Gent Gran de Callús,8 mesosinfo,30,12,42
+9660,Residència assistida per a gent gran - temporal o permanent,Residència Guillem Mas de Canet de Mar (servei de residència assistida),"C. Vall, 69",Fundació Privada l'Hospital Particular de Canet de Mar,2 anys i 6 mesosinfo,25,70,95
+9661,Residència assistida per a gent gran - temporal o permanent,Residència Miramar de Canet de Mar,"Av. Maresme, 29","Miramar de Canet, SL",4 mesosinfo,56,14,70
+9663,Residència assistida per a gent gran - temporal o permanent,Residència Sant Roc de Canet,"Av. Maresme, 23","Sant Roc de Canet, SL",4 mesosinfo,174,7,181
+9664,Residència assistida per a gent gran - temporal o permanent,CDM Residencial,"Psg. de la Misericòrdia, 41","Hirundo Rustica, SL",1 any i 4 mesosinfo,42,41,83
+9665,Residència assistida per a gent gran - temporal o permanent,Centro gerontológico María Auxiliadora,"C. Diagonal, 29","Centro gerontológico María Auxiliadora, SL",,,35,
+9666,Residència assistida per a gent gran - temporal o permanent,Residència d'Avis de Capellades Fundació Consorts Guasch,"Psg. Concepció, 1-3","Fundació ""Consortes Guasch""",1 anyinfo,63,20,83
+9667,Residència assistida per a gent gran - temporal o permanent,Residencia de Ancianos Maranatha de Cardedeu (servei de residència assistida),"Ctr. de Cànoves, Km 2,5 (Can Julià Gros)",Fundación Residencia de Ancianos Maranatha,1 any i 5 mesosinfo,33,37,70
+9668,Residència assistida per a gent gran - temporal o permanent,"Llar-Residéncia ""El Racó""","Ctr. BV-5108, Km.3'5 de Cardedeu a Cànoves","El Racó de Cardedeu, SL",8 mesosinfo,26,8,34
+9669,Residència assistida per a gent gran - temporal o permanent,Residència 3a edat Sant Jaume (servei de residència assistida),"Pça. Compte Viladomat, 2",Fundació Privada Residència 3a. Edat Sant Jaume,7 mesosinfo,45,22,67
+9670,Residència assistida per a gent gran - temporal o permanent,Centre de Serveis l'Onada Casserres (servei de residència assistida),"Psg. Bisbe Comelles, 75",Ajuntament de Casserres,5 mesosinfo,45,6,51
+9671,Residència assistida per a gent gran - temporal o permanent,Residència Obra Social Benèfica de Castellar del Vallès,"C. Mestre Ros, s/n",Obra Social Benèfica de Castellar del Vallès,1 any i 6 mesosinfo,70,24,94
+9672,Residència assistida per a gent gran - temporal o permanent,Residència Falgàs,"C. Bassetes, 3","Camplluna Advisers, SL",,,20,
+9673,Residència assistida per a gent gran - temporal o permanent,Residència geriàtrica les Orquídies,"C. Prat de la Riba, 1","Castellarnou Promocions, SL",,,49,
+9674,Residència assistida per a gent gran - temporal o permanent,Residència Nord Egara,"C. Passeig, 39-41","Residència Nord Egara, SL",4 mesosinfo,31,3,34
+9675,Residència assistida per a gent gran - temporal o permanent,Residència Can Font,"C. Can Salas, 8 Urbanització Can Font","Residència Geriàtrica Can Font, SL",8 mesosinfo,25,,
+9676,Residència assistida per a gent gran - temporal o permanent,Geriàtric del Bages,"C. Sant Geroni, 8","Centre Geriàtric del Bages, SL",9 mesosinfo,37,8,45
+9677,Residència assistida per a gent gran - temporal o permanent,Residència la Ginesta,"C. de la Llum, 5-9",Fundació Privada Sant Andreu de Castellcir,6 mesosinfo,46,8,54
+9678,Residència assistida per a gent gran - temporal o permanent,"Residencia Geriátrica ""Catite""","Psg. Garbí, 134","Edificaciones y Hoteles, SL",,,66,
+9679,Residència assistida per a gent gran - temporal o permanent,Residència Mussol II,"Av. Castelldefels, 69","Ansol Geriàtrics, SL",6 mesosinfo,31,,
+9680,Residència assistida per a gent gran - temporal o permanent,Mussol III,"Psg. dels Tarongers, 40","Ansol Geriàtrics, SL",7 mesosinfo,42,11,53
+9681,Residència assistida per a gent gran - temporal o permanent,Residencia Colonias Extranjeras de Barcelona,"C. 22 de la Pineda, 13-15",Fundación Residencia Colonias Extranjeras de Barcelona,2 anys i 1 mesinfo,42,23,65
+9683,Residència assistida per a gent gran - temporal o permanent,Residència Julia,"C. Cadis, 36 (torre)","Societat Cooperativa Catalana Limitada, Residencia Balmes",5 mesosinfo,24,6,30
+9684,Residència assistida per a gent gran - temporal o permanent,Solmar Residencial,"Psg. Bellavista, 160-166","Residència Geriàtrica Costa Daurada, SL",10 mesosinfo,46,18,64
+9686,Residència assistida per a gent gran - temporal o permanent,Residència les Gavines,"Psg. Ferrocarril, 16-18","Adquisiciones Rosegar, SLU",1 any i 7 mesosinfo,24,25,49
+9687,Residència assistida per a gent gran - temporal o permanent,Residència l'Oreneta,"Psg. Marítim, 222-224","Residència l'Oreneta, SL",1 any i 5 mesosinfo,36,13,49
+9688,Residència assistida per a gent gran - temporal o permanent,Residencia 3a Edad Santa Rita Castelldefels,"Av. Constitució, 340-342","Cadakes siglo XXI, SL",6 mesosinfo,59,8,67
+9689,Residència assistida per a gent gran - temporal o permanent,Residència geriàtrica el Recer II,"Psg. Marina, 60","Kisar, S.L.",4 anys i 10 mesosinfo,5,45,50
+9690,Residència assistida per a gent gran - temporal o permanent,Residència Lluna Gran,"C. Alcover, 30","Residència per a gent gran Vellamar, SL",11 mesosinfo,16,9,25
+9691,Residència assistida per a gent gran - temporal o permanent,Residència El Manantial,"Psg. Brollador, 26","Centro residencial Montfels, SL",1 any i 1 mesinfo,13,47,60
+9692,Residència assistida per a gent gran - temporal o permanent,Residència Torre Marina,"Psg. Garbí, 152, bxs","Castro-Pie, SL",,,50,
+9693,Residència assistida per a gent gran - temporal o permanent,Portamar Residencial,"Av. 341, núm. 14","Portamar Residencial, SL",1 any i 2 mesosinfo,6,49,55
+9694,Residència assistida per a gent gran - temporal o permanent,"Residència ""Masplanoi""","Urb. Masplanoi. C. del Mas, s/n","Residència d'avis Mas Planoi, SL",,,19,
+9695,Residència assistida per a gent gran - temporal o permanent,IBADA Castellgalí (residència assistida),"C. Jacint Verdaguer, 24",Ajuntament de Castellgalí,2 anys i 3 mesosinfo,15,71,86
+9696,Residència assistida per a gent gran - temporal o permanent,Residència Municipal Josep Brugarolas,"Ctr. Granera, 41",Ajuntament de Castellterçol,4 mesosinfo,53,21,74
+9697,Residència assistida per a gent gran - temporal o permanent,Llar per a la tercera edat Nature,"Pge. Nord, 1-3","Patrimonial Nature, SL",5 mesosinfo,44,8,52
+9698,Residència assistida per a gent gran - temporal o permanent,Palau de Can Sunyer (residència assistida),"C. Sant Llorenç de Morunys, 8-12","Palau de Can Sunyer, SL",2 anys i 1 mesinfo,40,40,80
+9699,Residència assistida per a gent gran - temporal o permanent,Residència Sant Gabriel (servei de residència assistida),"C. Fortià Solà, 6",Fundació Pública Municipal Residència Sant Gabriel,3 anys i 4 mesosinfo,33,45,78
+9700,Residència assistida per a gent gran - temporal o permanent,Residencia 3ª Edad Casa de las Monjas,"C. Vidriers, 6","Residencia Casa las Monjas, SL",3 mesosinfo,61,5,66
+9701,Residència assistida per a gent gran - temporal o permanent,Residencial Mensa,"C. Joaquim Mensa, 18","Martodey, S.L.",1 any i 7 mesosinfo,24,30,54
+9702,Residència assistida per a gent gran - temporal o permanent,Les Oliveres Centre Residencial,"C. Saturnia Pyri, 6-8","Llopart Moleras, S.L",1 any i 3 mesosinfo,21,29,50
+9703,Residència assistida per a gent gran - temporal o permanent,Residencia Geriátrica Santa Rita,"Av. Amadeu Vives, 1","Marcugamar, SL",5 mesosinfo,32,2,34
+9704,Residència assistida per a gent gran - temporal o permanent,Residència La Muntanya,"Psg. Cerdanya, 8","Bella Llar La Montaña, SL",6 mesosinfo,21,4,25
+9705,Residència assistida per a gent gran - temporal o permanent,Residència Reche,"C. Santa Magdalena, 1-2",Residència Reche SL,4 mesosinfo,44,11,55
+9706,Residència assistida per a gent gran - temporal o permanent,Residència Sant Martí,"Pça. Bartolomeu i Pere Selva, 2","Residencia Tercera Edad Montserrat, SL",3 mesosinfo,27,1,28
+9707,Residència assistida per a gent gran - temporal o permanent,Residència assistida Jardins de Corbera,"Urb. Santa Maria de la Vall, Carrer 7, núm. 35","Residencial Les Deus, S.L.",3 mesosinfo,54,10,64
+9708,Residència assistida per a gent gran - temporal o permanent,Residència La Torreta de Corbera,"C. Berguedà, 15-17 (Urb. Creu Nova)","Residència La Torreta de Corbera, SL",1 any i 1 mesinfo,42,8,50
+9709,Residència assistida per a gent gran - temporal o permanent,Residència d'avis Mercè,"Av. Dels Pins, 18 Pol. 2n urb. can Margarit","Residència Edad d'Or Mercè, SL",9 mesosinfo,12,13,25
+9710,Residència assistida per a gent gran - temporal o permanent,Residència Llar de Benestar,"C. Joaquim Ruyra, 39-41","Llar de Benestar, S.L.U",4 mesosinfo,30,20,50
+9711,Residència assistida per a gent gran - temporal o permanent,Creu Nova Gent Gran,"C. Creu Nova, 28","Olodun, SL",2 anys i 2 mesosinfo,10,17,27
+9712,Residència assistida per a gent gran - temporal o permanent,Residència d'avis Sol i Natura,"Ctr. de l'Amunt, 8","Residència d'avis Sol i Natura, SL",2 anysinfo,37,13,50
+9713,Residència assistida per a gent gran - temporal o permanent,Residència Santa Rita Cornellà,"Av. del Parc, 19-21","Clínica Sant Jordi de Cornellà, S.L.",6 mesosinfo,44,12,56
+9714,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Jaume Nualart,"C. Anoia, s/n",Generalitat de Catalunya,1 any i 7 mesosinfo,72,,
+9716,Residència assistida per a gent gran - temporal o permanent,Centre Sociosanitari i Residència Assistida DomusVi Sant Jordi,"Ctr. Sant Joan Despí, s/n",Fundación DomusVi,1 any i 1 mesinfo,72,13,85
+9717,Residència assistida per a gent gran - temporal o permanent,Centre residencial Blau Almeda,"Ctr. de l'Hospitalet, 236",Centre residencial Blau Almeda SA,2 anys i 1 mesinfo,26,116,142
+9719,Residència assistida per a gent gran - temporal o permanent,Residencial Cornellà,"Av. del Parc, 46","Sanitas Mayores, SL",,,140,
+9720,Residència assistida per a gent gran - temporal o permanent,Edelweis Residencial Cubelles,"Av. Catalunya, 18-20","Residència Templis Atlantis, SLU",,,63,
+9721,Residència assistida per a gent gran - temporal o permanent,Residència Medical Comfort,"Av. Europa, 13 (Ctr. C-31, Km. 51700)","Edelweis Ibérica, S.L.",info,1,105,106
+9722,Residència assistida per a gent gran - temporal o permanent,Residència d'avis Sant Llop,"C. Pau Picasso, 13","Residència d'avis Sant Llop, SL",8 mesosinfo,23,3,26
+9723,Residència assistida per a gent gran - temporal o permanent,Residència Municipal Can Comelles (servei de residència assistida),"C. Can Comelles, s/n",Ajuntament d'Esparreguera,1 any i 8 mesosinfo,78,12,90
+9726,Residència assistida per a gent gran - temporal o permanent,Residència Fèlix Llobet (servei de residència assistida),"Av. Isidre Martí, 17-19",Fundació Privada Casal dels Avis d'Esplugues,3 anysinfo,52,19,71
+9727,Residència assistida per a gent gran - temporal o permanent,Residència Domus Astri,"C. Apel·les Mestres, 37","Domus Astri, SL",1 any i 7 mesosinfo,15,10,25
+9728,Residència assistida per a gent gran - temporal o permanent,Residència assistida La Mallola,"C. Raval de Sant Mateu, 46-48",Fundació Privada Casal dels Avis d'Esplugues,3 anys i 3 mesosinfo,70,34,104
+9729,Residència assistida per a gent gran - temporal o permanent,Residència Bouco Ciutat Diagonal,"Av. La Miranda, 8-16","Residència Ciutat Diagonal Esplugues, SL",,,100,
+9731,Residència assistida per a gent gran - temporal o permanent,Residència d'avis l'Auca,"C. Jaume I, 28","Residència d'Avis L'Auca, S.L.",6 mesosinfo,33,11,44
+9732,Residència assistida per a gent gran - temporal o permanent,Residència Palau de les Franqueses,"Ctr. Cànoves, Km 1,5","Residència Geriàtrica Palau, SL",2 mesosinfo,48,4,52
+9733,Residència assistida per a gent gran - temporal o permanent,Residència les Franqueses,"C. Sant Josep, 29","Mutuam, Mútua de Previsió Social",1 any i 8 mesosinfo,35,23,58
+9734,Residència assistida per a gent gran - temporal o permanent,Hotel Residència Reig (servei de residència assistida),"Rda. del Carril, 78","Residencial Garriga, SL",3 mesosinfo,34,7,41
+9735,Residència assistida per a gent gran - temporal o permanent,Can Jordan (servei de residència assistida),"Rda. del Carril, 63","Can Jordan, SL",6 mesosinfo,32,21,53
+9736,Residència assistida per a gent gran - temporal o permanent,Asil Hospital de la Garriga (servei de residència assistida),"C. Llerona, 2",Fundació Privada Asil Hospital de la Garriga,1 any i 4 mesosinfo,98,55,153
+9737,Residència assistida per a gent gran - temporal o permanent,Llar Nostra Senyora del Pilar (servei de residència assistida),"Psg. dels Til·lers, 29",Hogar Nuestra Señora del Pilar de La Garriga-Congregació de Germanes Hospitalàries de la Santa Creu,1 any i 8 mesosinfo,24,18,42
+9738,Residència assistida per a gent gran - temporal o permanent,Residencia San Lorenzo,"C. Riu Ebre, 8","Residencia San Lorenzo, S.L.",8 mesosinfo,35,,
+9739,Residència assistida per a gent gran - temporal o permanent,Residencia San Lorenzo 2,"C. Riu Ebre, 13","Residencia San Lorenzo, S.L.",,,34,
+9740,Residència assistida per a gent gran - temporal o permanent,Residencia Gavá Centre,"Pça. Dolors Clua, 11","Residències geriàtriques Sabater i Fabregat, SL",7 mesosinfo,8,13,21
+9741,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Gavà,"C. Concòrdia, s/n",Generalitat de Catalunya,7 mesosinfo,93,,
+9742,Residència assistida per a gent gran - temporal o permanent,Residencia San Lorenzo 3 (servei de residència assistida),"C. Àngela Roca, 4","Residencia San Lorenzo, S.L.",10 mesosinfo,52,22,74
+9743,Residència assistida per a gent gran - temporal o permanent,Llar Sant Jordi,"Ctr. Sant Sadurní, km. 9","Llar Sant Jordi, SL",5 mesosinfo,40,18,58
+9744,Residència assistida per a gent gran - temporal o permanent,Residència Sant Roc,"Pça. Dr. Armengol, 1",Fundació Residència Sant Roc,9 mesosinfo,52,40,92
+9745,Residència assistida per a gent gran - temporal o permanent,Centre Geriàtric Adolfo Montañá Riera,"Av. Francesc Ribas, s/n",Fundació Hospital Asil de Granollers,1 any i 10 mesosinfo,31,21,52
+9746,Residència assistida per a gent gran - temporal o permanent,Colisée Can Monic,"Av. 1r Marquès de les Franqueses, 148","La Saleta Care, SL",3 anys i 4 mesosinfo,29,39,68
+9747,Residència assistida per a gent gran - temporal o permanent,Residència Fundació Antònia Roura Barbany (servei de residència assistida),"C. Nou, 12",Fundació Antònia Roura Barbany,1 any i 9 mesosinfo,29,22,51
+9748,Residència assistida per a gent gran - temporal o permanent,Residencia San José. Granollers (servei de residència assistida),"C. San José, 6",Congregación Hijas de San José - Residencia San José,,,40,
+9750,Residència assistida per a gent gran - temporal o permanent,Llar d'Avis Verge de la Salut,"C. Sant Marc, 1","DP Consultores de Dependencia, SLU",,,21,
+9751,Residència assistida per a gent gran - temporal o permanent,Residència Jericó,"C. Mestre Candi, 36-42",Fundació Privada Sant Roc,1 any i 5 mesosinfo,47,23,70
+9752,Residència assistida per a gent gran - temporal o permanent,La Rambla Residència d'Avis,"Rbl. Just Oliveres, 48, 1er","Hospitalet Residència d'Avis, S.L",,,25,
+9753,Residència assistida per a gent gran - temporal o permanent,Residència Santa Eulàlia,"Av. Jacint Verdaguer, 32",Fundació Santa Eulàlia,2 anys i 5 mesosinfo,56,35,91
+9754,Residència assistida per a gent gran - temporal o permanent,Llar d'avis Santa Eulàlia,"Av. Carrilet, 129-131, 1er","Llar d'avis Santa Eulàlia, SL",,,18,
+9755,Residència assistida per a gent gran - temporal o permanent,Prytanis Residencial,"C. Aprestadora, 43-45","Prytanis Services, SL",3 anys i 2 mesosinfo,12,18,30
+9756,Residència assistida per a gent gran - temporal o permanent,L'Hospitalet Rpark (Residència),"C. Cultura, 3","L'Hospitalet Rpark, SL",3 anys i 5 mesosinfo,12,62,74
+9757,Residència assistida per a gent gran - temporal o permanent,Residència d'avis la Torrassa,"C. Santiago Apóstol, 55",Fundació Mare de Déu dels Desamparats,8 mesosinfo,80,13,93
+9758,Residència assistida per a gent gran - temporal o permanent,Residència Collblanc Companys Socials,"C. Riera Blanca, 18-20",Consorci Sanitari Integral,1 any i 5 mesosinfo,90,,
+9759,Residència assistida per a gent gran - temporal o permanent,Residència El Pilar,"C. Florida, 39","IACJ, SL",,,28,
+9760,Residència assistida per a gent gran - temporal o permanent,Residència Assistida DomusVi Can Buxeres,"C. Ametller, 6","SAR Residencial y Asistencial,SAU",11 mesosinfo,100,78,178
+9761,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Francisco Padilla,"C. Electricitat, 35-43",Generalitat de Catalunya,1 any i 4 mesosinfo,80,,
+9762,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Feixa Llarga Laia González,"C. de la Residència, 2",Generalitat de Catalunya,2 anys i 2 mesosinfo,94,,
+9763,Residència assistida per a gent gran - temporal o permanent,Residència 3a edat Santa Isabel,"Av. Nostra Senyora de Bellvitge, 20-28, altell EFGHI","Residencia y Atención Social, SL",1 anyinfo,22,2,24
+9764,Residència assistida per a gent gran - temporal o permanent,Residència Pare Josep M. Vilaseca (servei de residència assistida),"Av. Gaudí, 26",Consorci Sociosanitari d'Igualada,1 any i 10 mesosinfo,97,62,159
+9766,Residència assistida per a gent gran - temporal o permanent,Residencia Igualada,"C. Sant Francesc d'Assís, 19","Residencia Igualada, SL",9 mesosinfo,35,27,62
+9767,Residència assistida per a gent gran - temporal o permanent,Residència assistida Fundació Sanitària Sant Josep,"C. Passeig Verdaguer, 31",Fundació Sanitària Sant Josep,,,12,
+9768,Residència assistida per a gent gran - temporal o permanent,Jardí Residencial Torre Magret,"C. Bonavista, 10-14","Jardí Residencial Torre Magret, SL",,,44,
+9769,Residència assistida per a gent gran - temporal o permanent,Residència Llinars del Vallès (servei de residència assistida),"C. Salvador Espriu, 11-15","Residència Llinars del Vallès, SL",3 anys i 4 mesosinfo,43,61,104
+9771,Residència assistida per a gent gran - temporal o permanent,Residència assistida Bonavista,"C. Sant Valerià, 84",Bonavista Gent Gran SL,,,35,
+9772,Residència assistida per a gent gran - temporal o permanent,Residència Nazaret (servei de residència assistida),"Av. Costa Brava, 92",Instituto de Religiosas de San José de Gerona,2 anys i 1 mesinfo,55,62,117
+9773,Residència assistida per a gent gran - temporal o permanent,Residència geriàtrica Toy,"C. Mallorca, 63","Alydal, S.L.",4 mesosinfo,78,11,89
+9774,Residència assistida per a gent gran - temporal o permanent,Residencia Geriátrica Malgrat,"C. MAR, 89","Residencia Geriátrica Malgrat, S.L.",2 anys i 9 mesosinfo,41,68,109
+9775,Residència assistida per a gent gran - temporal o permanent,Residència Aura (servei de residència assistida),"Ctr. d'Olot, 7",Consorci Hospitalari de Vic,3 anys i 11 mesosinfo,60,76,136
+9776,Residència assistida per a gent gran - temporal o permanent,Residència Mont-Blanc (servei de residència assistida),"C. Jacint Verdaguer, 2-4","Sant Andreu Salut, Fundació Privada",1 any i 8 mesosinfo,45,35,80
+9777,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Font dels Capellans,"C. Font dels Capellans, 85",Generalitat de Catalunya,11 mesosinfo,58,,
+9778,Residència assistida per a gent gran - temporal o permanent,Residència d'Avis Sagrada Família (servei de residència assistida),"C. Vallès, 8, bxs","Residència d'Avis del Barri de la Sagrada Família de Manresa, Fundació Privada",9 mesosinfo,21,1,22
+9779,Residència assistida per a gent gran - temporal o permanent,Residència Sant Andreu (servei de residència assistida),"C. Remei de Dalt, 8-20","Sant Andreu Salut, Fundació Privada",1 any i 9 mesosinfo,69,42,111
+9780,Residència assistida per a gent gran - temporal o permanent,Residència d'Avis Sagrada Família II,"C. Vallès, 15-17 (torre)","Residència d'Avis del Barri de la Sagrada Família de Manresa, Fundació Privada",1 any i 2 mesosinfo,12,7,19
+9781,Residència assistida per a gent gran - temporal o permanent,Centre Residencial Mutuam-Manresa,"C. Era de l'Huguet, 6-8","Mutuam, Mútua de Previsió Social",Sense llista d'accésinfo,3,28,31
+9783,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Valldaura,"C. del Cos, 10","Residència Geriàtrica Valldaura, SL",1 anyinfo,24,22,46
+9785,Residència assistida per a gent gran - temporal o permanent,Residència Vistalegre,"C. Vistalegre, 37","Gran Via BCN, SL",,,25,
+9787,Residència assistida per a gent gran - temporal o permanent,Residència Anoia,"Av. Pau Claris, 11 bis","Assistència Geriàtrica Anoia, SL",1 any i 11 mesosinfo,19,35,54
+9788,Residència assistida per a gent gran - temporal o permanent,Residència Sant Joan de Déu de Martorell,"Av. Camí Fondo, 22",Fundació Residència Sant Joan de Déu de Martorell,2 anys i 6 mesosinfo,72,64,136
+9789,Residència assistida per a gent gran - temporal o permanent,Les Moreres - Residència per a gent gran,"C. Anselm Clavé, 113","Residència les Moreres, SL",,,38,
+9790,Residència assistida per a gent gran - temporal o permanent,Residencia Mare Nostrum,"C. Figueres, 23","Residencias Geriátricas del Mare Nostrum, SA",2 anys i 10 mesosinfo,5,19,24
+9791,Residència assistida per a gent gran - temporal o permanent,Llar-Residència Geriàtrica Montseny,"C. Navarra, 181","Fundació Privada ""Sant Francesc d'Assís""",2 anys i 4 mesosinfo,27,43,70
+9792,Residència assistida per a gent gran - temporal o permanent,Residència Sant Jordi,"C. Frederic Bosch, 22","Sant Miquel 65, SL",7 mesosinfo,29,9,38
+9793,Residència assistida per a gent gran - temporal o permanent,Residència Bell-Resguard,"C. Camilo Fabra, 21","Residència Geriàtrica Bell-Resguard, S.L.",4 mesosinfo,65,6,71
+9794,Residència assistida per a gent gran - temporal o permanent,Residència Casa Benèfica del Masnou (servei de residència assistida),"C. Rector Pineda, 12",Fundació Casa Benèfica del Masnou,1 any i 8 mesosinfo,30,30,60
+9795,Residència assistida per a gent gran - temporal o permanent,Residencia asistida Magnolia,"C. Ciutat Vila Jardí, 34","Budaudi-Geriátrico, SL",9 mesosinfo,3,17,20
+9796,Residència assistida per a gent gran - temporal o permanent,Residència Sagrada Família (servei de residència assistida),"C. Àngel Guimerà, 57",Comunitat de Religioses de la Sagrada Família d'Urgell,2 anys i 8 mesosinfo,26,27,53
+9797,Residència assistida per a gent gran - temporal o permanent,Els Roures Centre Residencial,"Psg. de Matadepera, 57","Residencial G.R.M., S.L.",7 mesosinfo,32,15,47
+9798,Residència assistida per a gent gran - temporal o permanent,Residència Torre Llauder de Càritas,"C. Sant Valentí, 19, 1er",Associació Residència Torre Llauder,,,16,
+9799,Residència assistida per a gent gran - temporal o permanent,Residència Sant Marc,"C. Camí Ral, 357","Residència Llar Sant Marc, SL",1 any i 3 mesosinfo,16,19,35
+9801,Residència assistida per a gent gran - temporal o permanent,Residència Laia,"C. Miquel Biada, 45","Vima Residencial, SL",2 anys i 3 mesosinfo,42,66,108
+9802,Residència assistida per a gent gran - temporal o permanent,Residència Voramar,"C. Tordera, 8","Residència d'avis Voramar, SL",,,83,
+9803,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Mataró,"Av. Gatassa, 43",Generalitat de Catalunya,2 anys i 4 mesosinfo,184,,
+9804,Residència assistida per a gent gran - temporal o permanent,Centre Geriàtric Cerdanyola,"Av. Puig i Cadafalch, 208-210","Centre Geriàtric Cerdanyola, SL",1 any i 1 mesinfo,30,20,50
+9805,Residència assistida per a gent gran - temporal o permanent,Centre geriàtric Can Boada,"C. Pirineus, 9-13","Vima Residencial, SL",1 any i 11 mesosinfo,26,49,75
+9806,Residència assistida per a gent gran - temporal o permanent,Residència El Mirador,"C. Capcir, 90 (urb. Can Quirze)","Vima Residencial, SL",3 anys i 3 mesosinfo,61,65,126
+9807,Residència assistida per a gent gran - temporal o permanent,Residència assistida Mediterrània,C. Francolí (Urbanització Les Sureres),"Illa del Maresme, SL",1 any i 7 mesosinfo,17,18,35
+9808,Residència assistida per a gent gran - temporal o permanent,Residència assistida Novallar de Mediona,"C. del Futbol, s/n (Urbanització Font del Bosc)","Novallar de Mediona, SL",1 any i 6 mesosinfo,51,90,141
+9809,Residència assistida per a gent gran - temporal o permanent,Llar Municipal d'Avis Dr. Josep Mestre,"C. Pintor Carbonell, 8",Ajuntament de Molins de Rei,2 anys i 3 mesosinfo,30,,
+9810,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Santa Rosa,"C. Álvarez de Castro, s/n",Generalitat de Catalunya,1 any i 5 mesosinfo,80,,
+9811,Residència assistida per a gent gran - temporal o permanent,Residència la Immaculada,"C. Sant Jordi, 2",Fundació Casa Asil Parroquial de la Immaculada,5 anys i 3 mesosinfo,11,27,38
+9812,Residència assistida per a gent gran - temporal o permanent,Residència les Masies de Mollet,"c. Can Flequer, 48","Residència les Masies de Mollet, SL",5 mesosinfo,39,109,148
+9813,Residència assistida per a gent gran - temporal o permanent,Residencia Santa María,"C. Vallès, 51-53","Calaf Rajo y Asociados, SL",11 mesosinfo,37,,
+9814,Residència assistida per a gent gran - temporal o permanent,Centre Gerotològic Vila-nova,"C. Vilanova, 3-5","Residència La Llar de Vilanova, SL",,,25,
+9815,Residència assistida per a gent gran - temporal o permanent,Residència per a la gent gran els Tells,"C. Santiago Rusiñol, 8",Ajuntament de Montesquiu,5 mesosinfo,20,6,26
+9816,Residència assistida per a gent gran - temporal o permanent,Hotel Congost (servei de residència assistida),"Ctr. de Ribes, 45","RLE, SA",5 mesosinfo,48,20,68
+9817,Residència assistida per a gent gran - temporal o permanent,Residencia Angelus,"C. Escales de l'Àngelus, s/n","Masol Residencial, SL",2 mesosinfo,33,2,35
+9818,Residència assistida per a gent gran - temporal o permanent,Residència Montmeló,"C. Poeta Joan Maragall, 29",Ajuntament de Montmeló,2 anys i 11 mesosinfo,13,23,36
+9820,Residència assistida per a gent gran - temporal o permanent,Residències de Catalunya,"Ctr. de Moià a Manresa, Km 26,5","Residència Torre d'Esplugues, S.L.",,,40,
+9822,Residència assistida per a gent gran - temporal o permanent,Hospital Residència de la Vila de Moià (servei de residència assistida),"Pça. de l'Hospital, 2",Hospital Residència de la Vila de Moià,2 anys i 8 mesosinfo,21,35,56
+9823,Residència assistida per a gent gran - temporal o permanent,Residència Navarcles,"C. Creueta, 51","Sant Andreu Salut, Fundació Privada",10 mesosinfo,62,40,102
+9824,Residència assistida per a gent gran - temporal o permanent,Residència d'Avis Navàs (servei de residència assistida),"C. Castelladral, s/n",Ajuntament de Navàs,11 mesosinfo,43,22,65
+9825,Residència assistida per a gent gran - temporal o permanent,Residència Sant Sebastià,"C. Frederica Montseny, 14-16","Residència Sant Sebastià, S.L.",3 mesosinfo,40,2,42
+9827,Residència assistida per a gent gran - temporal o permanent,Residència Fundació Privada Santa Oliva (servei de residència assistida),"C. Argelines, 137",Fundació Privada Santa Oliva,8 mesosinfo,91,15,106
+9830,Residència assistida per a gent gran - temporal o permanent,Geriàtric Palafolls,"Ctr. Vella de Malgrat a Blanes, Km 2,5","Geriàtric Palafolls, S.L.",8 mesosinfo,50,7,57
+9831,Residència assistida per a gent gran - temporal o permanent,Residència geriàtrica assistida Residencial Palau,"Av. Catalunya, 264-266","Glolvi, SL",5 mesosinfo,142,38,180
+9833,Residència assistida per a gent gran - temporal o permanent,Residencia Geriátrica Roma,"Av. Generalitat, 70","Residencia Geriátrica Roma, S.L.",1 any i 10 mesosinfo,25,15,40
+9835,Residència assistida per a gent gran - temporal o permanent,Residencia geriátrica Yayo Toni,"C. Vidal i Barraquer, 21 (Urb. Fontpineda)","Grupo Ainiri, SL",3 mesosinfo,24,1,25
+9836,Residència assistida per a gent gran - temporal o permanent,Residència Fontpineda 2000,"Av. Gran Via Fontpineda, 7-9","Residència Fontpineda 2000, SL",1 anyinfo,18,23,41
+9838,Residència assistida per a gent gran - temporal o permanent,"Residència per a gent gran ""Pedra Serrada""","Av. Pedra del Diable, 20",Fundació Sanitària de Mollet,2 anys i 6 mesosinfo,48,12,60
+9841,Residència assistida per a gent gran - temporal o permanent,Residència Meritxell,"C. Doctor Carles, 38","Minihotel de la Tercera Edad, S.L.",4 mesosinfo,27,2,29
+9842,Residència assistida per a gent gran - temporal o permanent,S.R. Lux Unitat Residencial,"C. Joan XXIII, 19","Assistència i Confort, SL",,,34,
+9843,Residència assistida per a gent gran - temporal o permanent,Residencial Sant Crist 3a Edat,"C. Folch i Torres, 50","Residencial Sant Crist 3a Edat, SL",4 mesosinfo,25,9,34
+9844,Residència assistida per a gent gran - temporal o permanent,Residència La Torreta de Piera,"Av. Barcelona, 26","Residència La Torreta de Piera, SL",2 anys i 6 mesosinfo,9,41,50
+9845,Residència assistida per a gent gran - temporal o permanent,Residència Pineda,"C. Jacinto Benavente, 16","Hotel Residencia Tercera Edad Pineda, SL",3 mesosinfo,50,6,56
+9846,Residència assistida per a gent gran - temporal o permanent,Residencia geriátrica Paradís del Mar,"C. del Mar, 46","Villarta Maresme, SL",2 anys i 9 mesosinfo,7,30,37
+9847,Residència assistida per a gent gran - temporal o permanent,Residència Mini Park,"C. Consulat de mar, 7","Grup Avebar Geriàtrics, SL",1 anyinfo,24,36,60
+9848,Residència assistida per a gent gran - temporal o permanent,Residència tercera edat Els Arcs,"C. Josep M. Bertomeu, 83, cantonada Jaume Balmes","Residència tercera edat Els Arcs, SLU",Més de 3 anysinfo,20,62,82
+9849,Residència assistida per a gent gran - temporal o permanent,Residència d'avis de la Pobla de Lillet (servei de residència assistida),"Pge. Pare Ramon, 2",Fundació Residència d'Avis de la Pobla de Lillet,2 mesosinfo,60,22,82
+9850,Residència assistida per a gent gran - temporal o permanent,Residència Gravi,"Urb. Serra Maurina, 18","Geriátrico Alai, S.L.",3 mesosinfo,31,2,33
+9851,Residència assistida per a gent gran - temporal o permanent,La Llar del Prat,"C. Frederic Soler, 1","Avis Domi, SL",1 anyinfo,11,13,24
+9852,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Onze de Setembre,"Av. Onze de Setembre, s/n",Generalitat de Catalunya,1 any i 5 mesosinfo,90,,
+9854,Residència assistida per a gent gran - temporal o permanent,Residència Bon Estar,"C. Camí Ral, 158","REHIGI, SL",4 mesosinfo,27,3,30
+9855,Residència assistida per a gent gran - temporal o permanent,Geriàtric Confort,"C. Sant Miquel, 42","Geriàtric Confort, S.L.",7 mesosinfo,37,11,48
+9856,Residència assistida per a gent gran - temporal o permanent,Casal Benèfic Premianenc (servei de residència assistida),"C. Sant Miquel, 90",Fundació Privada Casal Benèfic Premianenc,1 any i 5 mesosinfo,46,26,72
+9857,Residència assistida per a gent gran - temporal o permanent,Residència Anna,"C. Núria, 50","Residència Geriàtrica Anna, SL",2 anysinfo,12,21,33
+9858,Residència assistida per a gent gran - temporal o permanent,Residència Assistida Vila Clavellina,"C. Rafael Casanovas, 3","Residència Tercera Edat L'Onada, SL",2 anys i 1 mesinfo,71,201,272
+9859,Residència assistida per a gent gran - temporal o permanent,Residència Assistida DomusVi Mont Martí,"Ctr. Casserres, 1","SAR Residencial y Asistencial,SAU",2 mesosinfo,90,,
+9860,Residència assistida per a gent gran - temporal o permanent,Casal d'Assistència Benèfica - Residència Sant Josep (servei de residència assistida),"C. Llobregat, 75",Casal d'Assistència Benèfica de Puig-reig,5 mesosinfo,84,6,90
+9861,Residència assistida per a gent gran - temporal o permanent,Hogar Mevi,"C. Calvari, 120","Residència d'Avis Ripollet, SL",11 mesosinfo,20,3,23
+9862,Residència assistida per a gent gran - temporal o permanent,Llar d'Avis Verge de la Salut La Roca,"C. Puigmal, 22","DP Consultores de Dependencia, SLU",,,18,
+9863,Residència assistida per a gent gran - temporal o permanent,Residència Fundació Privada Can Planoles,"C. Residència, 9",Fundació Privada Can Planoles,1 any i 1 mesinfo,45,27,72
+9864,Residència assistida per a gent gran - temporal o permanent,Residència d'avis Sant Jaume,"C. Sant Jaume, 2","Rubimaes I, S.L.",2 anys i 3 mesosinfo,9,19,28
+9865,Residència assistida per a gent gran - temporal o permanent,Residència de la 3a edat els Avets,"C. Rossinyol, 27, tor","Serveis residencials per la tercera edat els Avets, SL",2 anys i 4 mesosinfo,6,32,38
+9866,Residència assistida per a gent gran - temporal o permanent,Residència el Cel de Rubí,"Av. Estatut, 119","El Cel de Rubí, SL",2 anys i 2 mesosinfo,17,35,52
+9867,Residència assistida per a gent gran - temporal o permanent,Centro de Servicios Asistenciales Amanecer,"C. Sant Jaume, 28A","Estudios y Recursos Globales, SL",1 any i 3 mesosinfo,47,13,60
+9868,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Rubí,"C. Lepant, 31-33",Generalitat de Catalunya,1 any i 3 mesosinfo,90,,
+9869,Residència assistida per a gent gran - temporal o permanent,Residència Conxita Valls,C. Camí d'Ullastrell/Camí de Sant Muç,"Asistencial Rubí, SLL",2 anys i 2 mesosinfo,32,20,52
+9870,Residència assistida per a gent gran - temporal o permanent,Residència Santa Rita - Sabadell,"C. Les Planes, 25","Assistential Cresgra Services, SL",1 any i 3 mesosinfo,54,14,68
+9871,Residència assistida per a gent gran - temporal o permanent,Residència Vallès,"C. Sol, 76","Seascer, SL",9 mesosinfo,18,13,31
+9872,Residència assistida per a gent gran - temporal o permanent,Residència Tercera Edat Maria de Luján,"C. Mossèn Gaietà, 24","María de Luján, SL",info,2,26,28
+9873,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Santa Rosalia,"C. Escola Pia, 2","Residència Geriàtrica Santa Rosalia, S.L.",1 any i 2 mesosinfo,14,19,33
+9874,Residència assistida per a gent gran - temporal o permanent,Residència Vivaldi,"C. Portugal, 74","Maria Duran, S.L.",1 any i 7 mesosinfo,14,13,27
+9875,Residència assistida per a gent gran - temporal o permanent,Residència Dolça Llar,"C. Gràcia, 163",Albera Busines SL,,,21,
+9876,Residència assistida per a gent gran - temporal o permanent,Residència La Font,"C. Llobet, 42-44","Residencia La Font, Sociedad Limitada",1 any i 1 mesinfo,35,5,40
+9877,Residència assistida per a gent gran - temporal o permanent,Residència geriàtrica La Creueta,"C. Creueta, 90-92","Mutuam, Mútua de Previsió Social",1 any i 5 mesosinfo,55,13,68
+9878,Residència assistida per a gent gran - temporal o permanent,Residència Sant Francesc,"C. Sant Francesc, 10","Residencias Asistenciales, S.L.",1 any i 5 mesosinfo,21,6,27
+9879,Residència assistida per a gent gran - temporal o permanent,Residència la Font II,"C. Onze de Setembre, 120","Residencia La Font, Sociedad Limitada",2 anys i 7 mesosinfo,15,33,48
+9881,Residència assistida per a gent gran - temporal o permanent,Residència Ciutat de Sabadell Serveis Sòcio-sanitaris,"C. Bilbao, 13","Vima Residencial, SL",1 any i 3 mesosinfo,64,22,86
+9882,Residència assistida per a gent gran - temporal o permanent,Residencia Vivendi,"C. Riego, 52","Residencias Asistenciales, S.L.",1 anyinfo,20,5,25
+9883,Residència assistida per a gent gran - temporal o permanent,Residència Assistida Roma,"C. Estació, 28","Centro de día y servicios geriátricos Roma, SL",,,19,
+9885,Residència assistida per a gent gran - temporal o permanent,Residencial El Parc,"C. Buxeda, 48","Gran Via BCN, SL",,,24,
+9887,Residència assistida per a gent gran - temporal o permanent,Centre Geriàtric del Vallès,"C. Salvany, 46-50","Centre Geriàtric del Vallès, SA",1 any i 2 mesosinfo,45,7,52
+9888,Residència assistida per a gent gran - temporal o permanent,"Allegra, Complex residencial per a la gent gran (Residència assistida)","C. Sardà, 120","EXPLOGERON, SL",Més de 3 anysinfo,24,192,216
+9889,Residència assistida per a gent gran - temporal o permanent,Residència Assistida DomusVi Sabadell Ciutat,"Ctr. de Mollet, 20","SAR Residencial y Asistencial,SAU",2 anys i 11 mesosinfo,32,88,120
+9891,Residència assistida per a gent gran - temporal o permanent,Residència Jardins de Castellarnau,"Av. La Pau, 5","Jardins de Castellarnau, SL",2 anys i 5 mesosinfo,4,113,117
+9893,Residència assistida per a gent gran - temporal o permanent,Residència assistida Sabadell Gent Gran,"Rda. Collsalarca, 217-219","Sabadell Gent Gran, centre de serveis, SA",2 anys i 4 mesosinfo,81,49,130
+9894,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Baells,"C. Sant Miquel, 32","Residències geriàtriques Baells-Carrera, SL",10 mesosinfo,20,6,26
+9896,Residència assistida per a gent gran - temporal o permanent,Residència Municipal Sant Bernat (servei de residència assistida),"C. Sant Bernat, 32",Ajuntament de Sallent,1 any i 11 mesosinfo,19,30,49
+9897,Residència assistida per a gent gran - temporal o permanent,Residència Sant Francesc,"C. Camí de Juncadella, s/n","Sant Francesc d'Assís, S.L.",2 anys i 2 mesosinfo,27,63,90
+9898,Residència assistida per a gent gran - temporal o permanent,Residència Municipal de Santpedor - Can Jorba,"C. Salvador Espriu, 10",Ajuntament de Santpedor,11 mesosinfo,30,60,90
+9900,Residència assistida per a gent gran - temporal o permanent,Residència Mossèn Anton,"Pça. Mossèn Anton, 7 B","Residència Mossèn Anton, SLU",,,21,
+9901,Residència assistida per a gent gran - temporal o permanent,Residencia Matacás,"Av. Eduard Maristany, 65-69","Protocolo Residencial, SL",info,60,117,177
+9902,Residència assistida per a gent gran - temporal o permanent,Residència Doctor Gerard Manresa,"C. Mossèn Narcís Prat, s/n",Fundación Organismo Benéfico Asistencial O.B.A.,6 mesosinfo,69,26,95
+9903,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Nostra Senyora,"Pça. Font de la Roda, 33","Residència Geriàtrica Nostra Senyora, S.L.",6 mesosinfo,19,6,25
+9904,Residència assistida per a gent gran - temporal o permanent,Vitalia Sant Andreu centre per a gent gran (residència assistida),"C. Serra del Cadí, cantonada Pedraforca, s/n","Vitalia Suite, SL",6 mesosinfo,202,10,212
+9905,Residència assistida per a gent gran - temporal o permanent,Residència l'Estada,"C. Camí de la Masia, s/n","Residència Geriàtrica L'Estada, S.A.",6 mesosinfo,38,6,44
+9907,Residència assistida per a gent gran - temporal o permanent,Residència Sauleda,"C. Francolí, 21","Soatge, SL",1 any i 4 mesosinfo,33,24,57
+9908,Residència assistida per a gent gran - temporal o permanent,Llar d'avis Alfou,"C. Desmai, 1 Urbanització Sant Julià d'Alfou","Llar d'avis Alfou, SL",1 anyinfo,14,11,25
+9910,Residència assistida per a gent gran - temporal o permanent,Llar Sant Josep (servei de residència assistida),"C. Riera Basté, 48",Fundació Privada Llar Sant Josep,2 anys i 3 mesosinfo,58,45,103
+9911,Residència assistida per a gent gran - temporal o permanent,Llar d'avis Domi,"C. Joaquim Rubió i Ors, 61, bxs","Paliativum Medicum, SL",,,22,
+9912,Residència assistida per a gent gran - temporal o permanent,Residencia Los Sauces (gent gran),"C. Joaquim Rubio i Ors, 90","Coorporación MED Inversiones Residenciales, SA",1 anyinfo,101,54,155
+9913,Residència assistida per a gent gran - temporal o permanent,Centre assistencial geriàtric Benviure,"C. Benviure, 7-9","Gerontocat, SL",2 anys i 10 mesosinfo,81,95,176
+9914,Residència assistida per a gent gran - temporal o permanent,Residencia Centro de dia Sant Boi,"Pça. Osona, 1 (cantonada Ctra. de Calafell, 42)",Marina Lozano Illescas,,,10,
+9915,Residència assistida per a gent gran - temporal o permanent,Residència dels Munts,"Pça. Nova, 1","Residència dels Munts, S.L.",8 mesosinfo,56,24,80
+9916,Residència assistida per a gent gran - temporal o permanent,Residència Amavir Sant Cugat,"C. Victor Hugo, 10","Planiger, SA",3 anys i 7 mesosinfo,64,116,180
+9917,Residència assistida per a gent gran - temporal o permanent,Residencial Cugat Natura,"C. Chopin, 5","Residencial Cugat Natura, SL",2 anysinfo,49,123,172
+9918,Residència assistida per a gent gran - temporal o permanent,Centro Terapéutico y Geriátrico,"C. Tórtora, 11","Centro Terapéutico y Geriátrico C.T.I.S.G., S.L.",5 mesosinfo,23,1,24
+9919,Residència assistida per a gent gran - temporal o permanent,Residència Virgen de la puerta (servei de residència assistida),"C. Joan Borràs, 12 (Valldoreix)","Residencia Virgen de la Puerta, SL",,,25,
+9920,Residència assistida per a gent gran - temporal o permanent,Residència Sant Salvador,"C. Sant Salvador, 47","Crisemi, SL",,,25,
+9921,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Sant Cugat del Vallès,"C. Santa Rosa, s/n",Generalitat de Catalunya,1 any i 9 mesosinfo,68,,
+9923,Residència assistida per a gent gran - temporal o permanent,Residència 3a Edat Vila Valldoreix (servei de residència assistida),"C. Joan Borràs, 64 (Valldoreix)","Vila Valldoreix, SL",6 mesosinfo,78,30,108
+9924,Residència assistida per a gent gran - temporal o permanent,Llar d'avis Mira-sol,"C. Pompeu i Fabra, 193-195","Sogelta, SL",1 any i 3 mesosinfo,8,17,25
+9926,Residència assistida per a gent gran - temporal o permanent,Colisée Jardins de Valldoreix,"Rbl. Mossèn Jacint Verdaguer, 199","La Saleta Care, SL",3 anys i 9 mesosinfo,35,103,138
+9927,Residència assistida per a gent gran - temporal o permanent,Residència Go-ya (servei de residència assistida),"Pça. de l'Església, 7","Llar Alt Penedès, SL",,,21,
+9928,Residència assistida per a gent gran - temporal o permanent,Residència assistida Can Serra,"C. Masia de Can Serra, s/n",Ajuntament Sant Esteve Sesrovires,9 mesosinfo,80,22,102
+9929,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Emi-Rosa,"C. Joan XXIII, 18","Residencial Si-Dis-Pus, SL",10 mesosinfo,41,26,67
+9930,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Gaudí,"C. Antoni Gaudí, 90","Busquets Bandrés, S.L.",3 mesosinfo,23,1,24
+9931,Residència assistida per a gent gran - temporal o permanent,Llar d'Avis Cal Garret,"C. Sant Jaume, 84","Llar d'Avis Cal Garret, SL",,,39,
+9932,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica la Llar,"C. Prat de la Riba, 19","Geriplus, SL",4 mesosinfo,23,2,25
+9933,Residència assistida per a gent gran - temporal o permanent,Residència Sant Fost,"C. Ocells, 14 bis","Ribelfill, SL",3 mesosinfo,25,,
+9934,Residència assistida per a gent gran - temporal o permanent,"El Racó, Residència per a gent gran","C. Montseny, 6","Bel Edad de Sant Fost, Societat Limitada",10 mesosinfo,76,26,102
+9935,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Benestar,"C. Mossen Francesc, 2","Residència lo Millor, SL",4 mesosinfo,25,,
+9936,Residència assistida per a gent gran - temporal o permanent,Residència per a gent gran Els Pinets (servei de residència assistida),"Av. Catalunya, 36","Chacón 2008, SL",2 mesosinfo,42,13,55
+9937,Residència assistida per a gent gran - temporal o permanent,Residència Agustí de Santacruz (servei de residència assistida),"C. Pont de Terme, 5",Fundació Privada Agustí de Santacruz de Sant Feliu de Codines,,,34,
+9938,Residència assistida per a gent gran - temporal o permanent,Residencia Santa Teresa (servei de residència assistida),"C. Armenteres, 37-39",Hermanas Misioneras del Evangelio de Sant Feliu de Llobregat,,,26,
+9940,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Can Falguera,"C. Jaume Ribes, 26-28",Generalitat de Catalunya,1 any i 10 mesosinfo,81,,
+9941,Residència assistida per a gent gran - temporal o permanent,Residència El Palauet de Sant Feliu,"C. Laureà Miró, 309","Vima Residencial, SL",2 anys i 4 mesosinfo,32,31,63
+9942,Residència assistida per a gent gran - temporal o permanent,Residència Municipal d'avis de Sant Fruitós de Bages el Lledoner,"C. Jacint Verdaguer, 1",Ajuntament de Sant Fruitós de Bages,4 anysinfo,17,54,71
+9943,Residència assistida per a gent gran - temporal o permanent,Hospital de Sant Pere,"Av. Santa Maria, 18-20",Patronat Hospital de Sant Pere de Vilassar de Dalt,2 anys i 5 mesosinfo,25,40,65
+9944,Residència assistida per a gent gran - temporal o permanent,Residència d'avis Fundació Gallifa (servei de residència assistida),"C. de la Vinya, 5",Ajuntament de Sant Hipòlit de Voltregà,3 anys i 3 mesosinfo,18,24,42
+9945,Residència assistida per a gent gran - temporal o permanent,Residencia de ancianos San Rafael,"Psg. Canal, 1, loc","Alvis Ortega, SL",,,19,
+9946,Residència assistida per a gent gran - temporal o permanent,Residència Sophos Sant Joan Despí,"C. Maria Tarrida, 1","Sophos Gestió, SL",2 anys i 9 mesosinfo,65,52,117
+9947,Residència assistida per a gent gran - temporal o permanent,Residència d'Avis l'Atzavara (servei de residència assistida),"Psg. Gallifa, s/n",Patronat Municipal Assistencial de Sant Joan de Vilatorrada,1 any i 5 mesosinfo,43,9,52
+9948,Residència assistida per a gent gran - temporal o permanent,Residència Vida als anys,"C. Sant Pau, 17",Vlad Alexandru Tipau,,,17,
+9949,Residència assistida per a gent gran - temporal o permanent,Llar-Residencial per l'Avi II,"C. Sant Pau, 12",Bofill Moral SL,11 mesosinfo,8,13,21
+9950,Residència assistida per a gent gran - temporal o permanent,Residència Vida per l'Avi,"C. Colón, 11","Vida per l'Avi, SL",1 any i 2 mesosinfo,8,17,25
+9951,Residència assistida per a gent gran - temporal o permanent,Residència - Casa Pairal Fundació Privada (servei de residència assistida),"C. Rosari, 59",Casa Pairal Fundació Privada,1 any i 10 mesosinfo,16,34,50
+9953,Residència assistida per a gent gran - temporal o permanent,Residència La Bona Mar,"C. Sant Pere, 14-15",Black Dove SL,,,24,
+9954,Residència assistida per a gent gran - temporal o permanent,Residència Qüida'm,"C. Creu del Padró, 17","Residencia Qüida'm, SL",5 mesosinfo,23,2,25
+9956,Residència assistida per a gent gran - temporal o permanent,Residència geriàtrica Cral Sant Just,"C. La Plana, 6","Cral Recursos asistenciales, SL",,,27,
+9957,Residència assistida per a gent gran - temporal o permanent,Vitalia Sant Just Centre per la Gent Gran de Sant Just Desvern (Residència),"C. Parlament Català, 5","Vitalia Suite, SL",1 anyinfo,105,85,190
+9958,Residència assistida per a gent gran - temporal o permanent,Llar Sant Llorenç,"C. Cami Can Farraguet, s/n","Llar Sant Llorenç, SL",7 mesosinfo,30,2,32
+9959,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Sant Llorenç Savall,"Ctr. Sabadell a Calders, Km 18,5",Generalitat de Catalunya,7 mesosinfo,101,,
+9960,Residència assistida per a gent gran - temporal o permanent,Llar Carme,"C. Anselm Clavé, 21","LLar Carme,SL",,,25,
+9961,Residència assistida per a gent gran - temporal o permanent,Residència assistida Sant Camil,"Rda. Sant Camil, s/n",Consorci Sanitari de l'Alt Penedès i Garraf,2 anys i 3 mesosinfo,32,32,64
+9962,Residència assistida per a gent gran - temporal o permanent,Residència Redós de Sant Josep (servei de residència assistida),"Av. Josep i Pere Jacas, 15",Fundació Redós de Sant Josep i Sant Pere,2 anys i 2 mesosinfo,67,46,113
+9963,Residència assistida per a gent gran - temporal o permanent,Residencia Santa Teresa I,"C. Vilanoveta, 10","Residència Geriàtrica Santa Teresa, S.L",,,24,
+9964,Residència assistida per a gent gran - temporal o permanent,Residència Rius i Virgili,"Av. Santiago Rusiñol, 37",Residència Rius i Virgili SL,2 anys i 2 mesosinfo,4,22,26
+9965,Residència assistida per a gent gran - temporal o permanent,Residència per a gent gran-Ajuntament Sant Pere de Torelló,"C. Badrena, 10",Ajuntament de Sant Pere de Torelló,,,23,
+9966,Residència assistida per a gent gran - temporal o permanent,Llar d'Avis Sant Pol,"C. Antoni Sauleda, 32, bxs","Cusan Sant Pol, SL",1 any i 4 mesosinfo,26,19,45
+9967,Residència assistida per a gent gran - temporal o permanent,Residència assistida municipal de Sant Quirze de Besora,"C. Els Patis, 20",Ajuntament de Sant Quirze de Besora,7 mesosinfo,39,6,45
+9968,Residència assistida per a gent gran - temporal o permanent,Residencia Virgen del Carmen,"Psg. de l'Estació, s/n (Les Fonts)","Proteccions Patrimonials Verge del Carme, SL",7 mesosinfo,36,4,40
+9969,Residència assistida per a gent gran - temporal o permanent,Residència Assís (servei de residència assistida),"C. Can Ponsich, s/n",Fundació Privada i Benèfica Assís,3 anys i 9 mesosinfo,30,70,100
+9970,Residència assistida per a gent gran - temporal o permanent,Llar d'avis Sant Quirze (servei de residència assistida),"Av. Antoni Gaudí, 43","Llar d'avis Sant Quirze, SL",4 anysinfo,22,64,86
+9971,Residència assistida per a gent gran - temporal o permanent,Casa dels Avis (servei de residència assistida),"C. Torras i Bages, 16-18",Ajuntament de Sant Sadurní d'Anoia,1 any i 5 mesosinfo,55,22,77
+9972,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica María de la Salud,"Av. dels Cirerers, 6","Residencia Geriátrica María de la Salud, SL",2 anys i 7 mesosinfo,50,70,120
+9973,Residència assistida per a gent gran - temporal o permanent,Residencial Colònia Güell (servei de residència assistida),"C. Joaquim Bosch i Folguera, 4","Residencial Colònia Güell, SL",,,67,
+9974,Residència assistida per a gent gran - temporal o permanent,Centre per a gent gran Orblanc,"C. Roma, 67","Centre per a la tercera edat Orblanc, SL",,,38,
+9975,Residència assistida per a gent gran - temporal o permanent,Centre Residencial Lantus Olimpo,"C. Mare de Déu dels Àngels, 2-4","Lantus, SL",3 anys i 8 mesosinfo,23,116,139
+9976,Residència assistida per a gent gran - temporal o permanent,Residència d'Avis Bet-San (servei de residència assistida),"C. Monturiol, 32-34","Bet-San, Fundació Privada",1 any i 2 mesosinfo,55,8,63
+9977,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Santa Coloma de Gramenet,"Av. Ramon Berenguer, 68",Generalitat de Catalunya,2 anys i 7 mesosinfo,165,,
+9978,Residència assistida per a gent gran - temporal o permanent,Residencia de Ancianos Entidad Evangélica Betania,"C. València, 11",Entidad Evangélica Betania,4 anysinfo,13,35,48
+9979,Residència assistida per a gent gran - temporal o permanent,Residència Moll de la Fusta 2,"C. Anselm del Riu, 86-92","Residència Moll de la Fusta, SL",info,7,28,35
+9980,Residència assistida per a gent gran - temporal o permanent,Residència Santa Eulàlia,"C. Dr. Puigvert, 3 (Urb. Dr. Vázquez)","Llar d'avis Santa Eulàlia 3, SL",9 mesosinfo,21,4,25
+9981,Residència assistida per a gent gran - temporal o permanent,Residència la Vall,"C. de la Creu, 10","Teneliva, SL",,,25,
+9982,Residència assistida per a gent gran - temporal o permanent,Residència Espitlles,"C. Masia Espitlles, s/n","Residència Espitlles, SL",,,40,
+9983,Residència assistida per a gent gran - temporal o permanent,Residència Sophos Barbera,"C. Marqueses de Barberà, 79-95","Sophos Gestió, SL",1 any i 1 mesinfo,86,17,103
+9984,Residència assistida per a gent gran - temporal o permanent,Residència Santa Maria,"Rda. Santa Maria, 117, bxs","Neolatur Global, SL",,,19,
+9985,Residència assistida per a gent gran - temporal o permanent,Residència Ballesol Barberà,"C. Abat Oliva, 24","Intercentros Ballesol, SA",2 anysinfo,66,98,164
+9986,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica La Romànica,"C. Àngel Guimerà, 30","Vallès Benestar, SL",,,25,
+9987,Residència assistida per a gent gran - temporal o permanent,Casal de la Santa Creu (servei de residència assistida),"C. Gorgues, 5",Casal de la Santa Creu - Germanes Hospitalàries de la Santa Creu,1 any i 9 mesosinfo,29,29,58
+9988,Residència assistida per a gent gran - temporal o permanent,Residència Cantonigròs,"Ctr. C-153, Km 25","Residència Cantonigròs, SL",,,52,
+9989,Residència assistida per a gent gran - temporal o permanent,Llar Residencial per a la Gent Gran Les Palmeres,"C. Josep Anselm Clavé, 1-3","Llar Residencial per a la Gent Gran Les Palmeres, S.L.",3 mesosinfo,25,1,26
+9990,Residència assistida per a gent gran - temporal o permanent,Residència la Florida,"Pça. Alta, 3","D. Masia 2, SL",1 any i 7 mesosinfo,31,9,40
+9991,Residència assistida per a gent gran - temporal o permanent,"Residencia 3ª Edad ""El Jardí""","C. 4, núm. 13","Gran Via BCN, SL",,,25,
+9992,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Sant Vicenç de Castellet,"C. Poeta Maragall, 20-22",Generalitat de Catalunya,6 mesosinfo,60,,
+9993,Residència assistida per a gent gran - temporal o permanent,Residència Sophos,"C. Santander, 30","Sophos Gestió, SL",7 mesosinfo,50,2,52
+9994,Residència assistida per a gent gran - temporal o permanent,Residència Primitiva Barba,"C. Onze de setembre, 1","Primibarba, SL",8 mesosinfo,56,18,74
+9995,Residència assistida per a gent gran - temporal o permanent,Centre Residencial Especialitzat en Demències Vora Balís,"C. Montnegre, 2-4","Vima Residencial, SL",1 any i 4 mesosinfo,38,27,65
+9996,Residència assistida per a gent gran - temporal o permanent,Xanel Centre Geriàtric,"C. Palmeres, 9","Xanel Centre Geriàtric, SL",8 mesosinfo,46,4,50
+9997,Residència assistida per a gent gran - temporal o permanent,Residència CIM Bellaterra,"C. Camí antic St. Cugat a Sabadell, 103 (Bellaterra)","Bellacresta, SL",,,47,
+9999,Residència assistida per a gent gran - temporal o permanent,Residència geriàtrica l'Olivera,"C. Sebastià Garriga, 17","Solucions a les Families, SL",,,21,
+10000,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Cerdanyola,"Av. de Lesseps, 4",Generalitat de Catalunya,1 any i 8 mesosinfo,90,,
+10001,Residència assistida per a gent gran - temporal o permanent,Residència El Meu Avi,"Rda. Cerdanyola, 50","Essen Desarrollo Empresarial, SL",,,28,
+10002,Residència assistida per a gent gran - temporal o permanent,Residència Nostra Senyora del Remei,"Psg. Anselm Clavé, 17, 1er","Residència Nostra Senyora del Remei, SL",,,27,
+10004,Residència assistida per a gent gran - temporal o permanent,Hospital de Sant Joan Baptista,"C. Vidal i Barraquer, 2",Patronat de l'Hospital de Sant Joan Baptista,1 any i 5 mesosinfo,84,24,108
+10005,Residència assistida per a gent gran - temporal o permanent,Las Magnolias,"c. Camí Capellans, 9-11","Las Magnolias, SL",1 any i 3 mesosinfo,42,43,85
+10006,Residència assistida per a gent gran - temporal o permanent,Residència Sitges Park,"C. Lola Anglada, 2-4","Residència Sitges Park, SL",2 anys i 3 mesosinfo,26,139,165
+10007,Residència assistida per a gent gran - temporal o permanent,Casa Família El Cenacle,"C. Camí de la Creu, s/n (Ordal)",Fundació Mossèn Josep Raventós,1 anyinfo,49,26,75
+10008,Residència assistida per a gent gran - temporal o permanent,Residència Bell Repòs de Súria (servei de residència assistida),"Av. Generalitat, s/n",Fundació Privada Bell Repòs de Súria,11 mesosinfo,63,31,94
+10009,Residència assistida per a gent gran - temporal o permanent,Residència Assistida Vilademany,"C. Jaume Balmes, 19",Fundació Vilademany,3 anys i 10 mesosinfo,14,58,72
+10010,Residència assistida per a gent gran - temporal o permanent,Residència Catalunya,"C. Sant Antoni, 48-50","Residència Geriàtrica Catalunya, S.L.",10 mesosinfo,37,13,50
+10012,Residència assistida per a gent gran - temporal o permanent,Residència Wagner,"C. Wagner, 132","Concager, SA",1 any i 2 mesosinfo,24,10,34
+10014,Residència assistida per a gent gran - temporal o permanent,Residència Sant Josep Oriol - Terrassa (servei de residència assistida),"C. Església, 9",Hermanas Franciscanas Misioneras de la Nativitat de Nuestra Señora (Sant Josep Oriol),3 anys i 3 mesosinfo,26,32,58
+10015,Residència assistida per a gent gran - temporal o permanent,Residència Egara Llar I,"C. Sant Jaume, 24","Hicamu, SL",3 mesosinfo,22,,
+10016,Residència assistida per a gent gran - temporal o permanent,Residència Ca n'Arnaus,"C. Sant Francesc, 43","Serveis assistencials Ca n'Arnaus, SL",3 anys i 2 mesosinfo,15,21,36
+10017,Residència assistida per a gent gran - temporal o permanent,Residencia geriàtrica Sagrado Corazón,"C. Sant Antoni, 86",Dolores Navajas Reinoso,,,24,
+10018,Residència assistida per a gent gran - temporal o permanent,Residència Egara Llar II,"C. Sant Jaume, 20","Hicamu, SL",11 mesosinfo,34,9,43
+10019,Residència assistida per a gent gran - temporal o permanent,Llar Residèncial Sant Llàtzer,"Pça. Doctor Robert, 6",Consorci Sanitari de Terrassa,3 anys i 2 mesosinfo,40,31,71
+10020,Residència assistida per a gent gran - temporal o permanent,Casa Vapor Gran (residència assistida),"C. Portal Nou, 42","Fundació Vallparadís, Fundació Privada Catalana",3 anys i 6 mesosinfo,30,101,131
+10021,Residència assistida per a gent gran - temporal o permanent,Residencia Montcau Matadepera,"C. Major de Sant Pere, 65","Residencia Montcau Matadepera, SL",,,22,
+10022,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Vellsolà,"C. Violinista Vellsolà, 3, bxs","Geriàtrica Vellsolà, S.L.",1 any i 10 mesosinfo,15,4,19
+10023,Residència assistida per a gent gran - temporal o permanent,Residència geriàtrica Vellsolà 2,"C. Doctor Pearson, 95, bxs","Geriàtrica Vellsolà, S.L.",10 mesosinfo,12,1,13
+10024,Residència assistida per a gent gran - temporal o permanent,Residència Bon Repòs Terrassa,"C. Lleó XIII, 52","Interavis Comunicació i Qualitat, SL",1 any i 5 mesosinfo,39,10,49
+10026,Residència assistida per a gent gran - temporal o permanent,Llar La Matinada,"C. Juan de la Cierva, 6","Llar La Matinada, S.L.",1 any i 2 mesosinfo,16,9,25
+10028,Residència assistida per a gent gran - temporal o permanent,Geriàtric residencial Lavoisier,"C. Lavoisier, 60","Troma-Lavoisier, SL",,,29,
+10029,Residència assistida per a gent gran - temporal o permanent,Residencia San José. Terrassa (servei de residència assistida),"C. Concili Egarenc, 22",Congregación Hijas de San José - Residencia San José,,,60,
+10030,Residència assistida per a gent gran - temporal o permanent,Residència assistida per a gent gran La Llar Fundació,"Av. Abat Marcet, 78",Fundació especial LaFACT,2 anys i 7 mesosinfo,35,129,164
+10031,Residència assistida per a gent gran - temporal o permanent,Residència Els Til·lers,"C. Camí Can Carbonell, 7-9","Residència 3a Edat Els Til·lers, SL",,,42,
+10032,Residència assistida per a gent gran - temporal o permanent,El Pinar Geriàtrics Terrassa,"Psg. Matadepera, 51","El Pinar Geriàtrics Terrassa, SL",,,23,
+10033,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Terrassa,"Ctr. Terrassa a Castellar, s/n (Finca Mossèn Homs)",Generalitat de Catalunya,3 anysinfo,100,,
+10035,Residència assistida per a gent gran - temporal o permanent,Residència Centre Tot Avis,"C. Mura, 78","Grup et Cuidem, SL",,,24,
+10036,Residència assistida per a gent gran - temporal o permanent,Centre Geriàtric Sant Pere,"C. Gerani, 8 (Les Fonts)","Centre Geriàtric Les Fonts, S.L.",1 any i 4 mesosinfo,56,24,80
+10037,Residència assistida per a gent gran - temporal o permanent,Residència la Llar de l'Avia Maria,"Ctr. de Rubí, 431 (Les Fonts)","La Llar de l'Avia Maria, SL",,,26,
+10038,Residència assistida per a gent gran - temporal o permanent,Residència Sant Jordi,"Ctr. de Rubí, 423","Residència Sant Jordi de les Fonts, SL",,,29,
+10039,Residència assistida per a gent gran - temporal o permanent,Residència-llar Roser,"C. Europa, 73","Residència-llar Roser, SL",,,20,
+10040,Residència assistida per a gent gran - temporal o permanent,Residència Amavir Teià,"Av. Kennedy, 74","Planiger, SA",1 anyinfo,126,54,180
+10041,Residència assistida per a gent gran - temporal o permanent,Residència Municipal per a Gent Gran Sant Cebrià,"C. Camí dels Francesos, 6",Ajuntament de Tiana,1 any i 10 mesosinfo,32,64,96
+10042,Residència assistida per a gent gran - temporal o permanent,Residència Casal dels Avis,"C. Barcelona, 23",Ajuntament de Tona,4 mesosinfo,14,7,21
+10043,Residència assistida per a gent gran - temporal o permanent,Residència Hotel Prudenci (servei de residència assistida),"Ctr. de Manresa, 55","Vila-Tona, S.L.",3 mesosinfo,68,27,95
+10044,Residència assistida per a gent gran - temporal o permanent,Lantus Tona,"C. Dr. Bayès, 49","Grup Lantus, SL",4 mesosinfo,57,11,68
+10045,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Can Comte,"C. Amadeu Vives, 40",Ajuntament de Tordera,1 any i 3 mesosinfo,30,9,39
+10046,Residència assistida per a gent gran - temporal o permanent,Residència assistida l'Albert-Tordera,"C. Camí Ral, 109","Vitalia Suite, SL",3 mesosinfo,100,38,138
+10047,Residència assistida per a gent gran - temporal o permanent,Cals Avis - Residència Rocaprevera (servei de residència assistida),"C. Pujada de Rocaprevera, s/n",Fundació d'Ancians de Sant Feliu de Torelló,2 anys i 7 mesosinfo,33,32,65
+10048,Residència assistida per a gent gran - temporal o permanent,Residencia 3a Edat Can Tarrida,"Av. Dolça de Provença, 35 (bústia 75)","Residència 3a Edat Can Tarrida, SL",8 mesosinfo,35,25,60
+10052,Residència assistida per a gent gran - temporal o permanent,Residència el Serrat,"C. El Serrat, 4","Residència el Serrat, SL",1 any i 7 mesosinfo,22,13,35
+10053,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica La Masia (servei de residència assistida),"Pge. L'Onyar, 1 (Ventaiol)","Masia Ventayol, SL",4 mesosinfo,35,,
+10055,Residència assistida per a gent gran - temporal o permanent,Habitaciones Baix Llobregat,"C. del Carme, 39 (Urb. La Soleia)","Habitaciones Baix Llobregat, SL",,,25,
+10056,Residència assistida per a gent gran - temporal o permanent,Alexia geriàtric,"C. Xile, 4 (Urbanització la Solana)","G.R. Gerocat, S.L.",7 mesosinfo,22,3,25
+10057,Residència assistida per a gent gran - temporal o permanent,Residència A. Barcino,"C. Barcino, 34 (Urb. Selva Negra)","Alex Augusta, S.L.",9 mesosinfo,27,14,41
+10058,Residència assistida per a gent gran - temporal o permanent,Residencia Tercera Edad Santa Fátima,"C. Països Catalans, 165",Fundación Benéfica Nuestra Señora de Fátima,2 mesosinfo,50,,
+10059,Residència assistida per a gent gran - temporal o permanent,Residencia Fundación Ntra. Sra. de Fátima,"Av. Països Catalans, 163",Fundación Benéfica Nuestra Señora de Fátima,2 mesosinfo,46,4,50
+10060,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica l'Edat d'Or,"C. Major, 584","La Caridad del Cobre, SL",2 mesosinfo,16,1,17
+10061,Residència assistida per a gent gran - temporal o permanent,Residència Fàtima,"Av. Països Catalans, 161",Fundación Benéfica Nuestra Señora de Fátima,,,50,
+10062,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica El Petit Hostalet,"C. Roger de Lluria, 7","Residència Geriàtrica El Petit Hostalet, SL",,,19,
+10064,Residència assistida per a gent gran - temporal o permanent,Residència El Nadal (servei de residència assistida),"C. La Laura, 83",Fundació Privada Hospital de la Santa Creu De Vic,1 any i 2 mesosinfo,130,14,144
+10065,Residència assistida per a gent gran - temporal o permanent,Residència Saits (servei de residència assistida),"Rbl. Hospital, 7",Fundació privada de gestió Claraeulàlies Alfredo Rubio de Castarlenas,,,52,
+10066,Residència assistida per a gent gran - temporal o permanent,Residència Sant Miquel,"C. Eucaliptus, 19","Residències 88, S.L.",2 anys i 7 mesosinfo,39,39,78
+10067,Residència assistida per a gent gran - temporal o permanent,Residència del Carmen,"c. Gardènies, 6 BIS","Residència Sant Boi, SL",,,19,
+10069,Residència assistida per a gent gran - temporal o permanent,Residencial Balneàric Talaia Blanca,"C. Jaume Abril, 43","Residencial Balneànic Talaia Blanca, SL",info,5,20,25
+10070,Residència assistida per a gent gran - temporal o permanent,Residencia asistida Albarrosa II,"Av. Central d'Albarrosa, 57","Residencia Albarrosa, SL",2 anys i 7 mesosinfo,6,47,53
+10071,Residència assistida per a gent gran - temporal o permanent,Tres Magnolias Residencial (servei de residència assistida),"Psg. del Tamariu, 11","Tres Magnòlies Serveis Gent Gran, SL",3 anys i 6 mesosinfo,17,23,40
+10072,Residència assistida per a gent gran - temporal o permanent,Centre Social i Sanitari Frederica Montseny,"C. Eslida, 6-8","CSC Atenció Social, SL",10 mesosinfo,68,38,106
+10073,Residència assistida per a gent gran - temporal o permanent,Residència Amavir Vilanova,"C. dels Fusters, 2","Planiger, SA",8 mesosinfo,102,78,180
+10074,Residència assistida per a gent gran - temporal o permanent,Residència de la Fundació Privada Asil Inglada Via (servei de residència assistida),"C. Hermenegild Clascar, 15",Fundació Privada Asil Inglada Via,5 anys i 10 mesosinfo,10,59,69
+10075,Residència assistida per a gent gran - temporal o permanent,Residència Madre Ráfols,"C. Molí de Rovira, 18","Grup Lantus, SL",2 anys i 8 mesosinfo,31,49,80
+10076,Residència assistida per a gent gran - temporal o permanent,Llar d'Avis Josefina Mata,"C. Amàlia Soler, 155",Fundació Privada Llar d'Avis de la UEBE a Vilafranca del Penedès,,,49,
+10077,Residència assistida per a gent gran - temporal o permanent,Residència Assistida Ricard Fortuny,"Av. Garraf, 3",Consorci Sociosanitari de Vilafranca del Penedès,1 any i 7 mesosinfo,95,16,111
+10078,Residència assistida per a gent gran - temporal o permanent,Jardí Residencial Torre Magret Vilalba,"C. Via Augusta, 1","Jardí Residencial Torre Magret, SL",11 mesosinfo,46,26,72
+10079,Residència assistida per a gent gran - temporal o permanent,Casa de Amparo (servei de residència assistida),"Rbl. Ventosa, 20",Fundació Privada Casa de Amparo,1 any i 9 mesosinfo,54,25,79
+10080,Residència assistida per a gent gran - temporal o permanent,Residència d'Avis Santa Teresa,"C. Ravalet, 2","Residència Geriàtrica Santa Teresa, S.L",,,24,
+10083,Residència assistida per a gent gran - temporal o permanent,Cugat residencial,"C. Xarxes, 17","Residencial Tercera Edad Cugat, SL",,,52,
+10084,Residència assistida per a gent gran - temporal o permanent,Centre residencial Els Josepets,"C. Sant Josep, 16-22",Assistència Integral Social i Sanitària (AISSA),1 any i 8 mesosinfo,108,31,139
+10085,Residència assistida per a gent gran - temporal o permanent,Residència les Onades,"c. Prat, 38-40","Vida Senior Vilanova, SL",,,75,
+10086,Residència assistida per a gent gran - temporal o permanent,Casa de Repòs Verge de la Salut i Sant Camil,"C. Camí de Cal Sereno, 2",Fundació Privada Verge de la Salut i Sant Camil,,,34,
+10087,Residència assistida per a gent gran - temporal o permanent,Residencial Avi Danilo,"C. Camí de les Roquetes, 1","Amistat i Benestar, SL",,,35,
+10088,Residència assistida per a gent gran - temporal o permanent,Casa de Repòs (servei de residència assistida),"C. Dr. Santiago Geli, 3-5",Residencia de la Santa Cruz en Arbúcies - Congregació de Germanes Hospitalàries de la Santa Creu,10 mesosinfo,51,17,68
+10089,Residència assistida per a gent gran - temporal o permanent,Sagrat Cor (servei de residència assistida),"C. Nou, 41","Residència Geriàtrica Banyoles, SL",2 anys i 5 mesosinfo,35,81,116
+10090,Residència assistida per a gent gran - temporal o permanent,Residència Bella Tardor,"Psg. de la Puda, 46-54",Fundació Privada Hna. Marta Bernal,,,38,
+10091,Residència assistida per a gent gran - temporal o permanent,Hogar Santa Teresa Jornet (servei de residència assistida),"C. Valls, 67","Dama Gestión Asistencial, SL",,,40,
+10092,Residència assistida per a gent gran - temporal o permanent,Residència el Mirador de l'Estany,"Ctr. Banyoles a Figueres, Km 1,5","El Mirador de l'Estany, SL",1 any i 3 mesosinfo,27,8,35
+10093,Residència assistida per a gent gran - temporal o permanent,Residència el Vellet,"C. Rambla, 25","Residències 3a Edat El Vellet, SL",3 mesosinfo,20,4,24
+10094,Residència assistida per a gent gran - temporal o permanent,Residència La Solana de Banyoles,"C. Prior Agustí, s/n cantonada c. de la Sardana, 202","La Solana de Banyoles, SL",3 anys i 2 mesosinfo,21,77,98
+10095,Residència assistida per a gent gran - temporal o permanent,Residència Can Carré,"C. Sant Martirià, 75-77","Artris Serveis Socials, SL",4 mesosinfo,21,4,25
+10096,Residència assistida per a gent gran - temporal o permanent,Residència assistida Joaquina Redondo Muñoz,"C. Major, 7-9",Joaquina Redondo Muñoz,,,21,
+10097,Residència assistida per a gent gran - temporal o permanent,Residència La Vila Gran,"C. Tarragona, 30-36","Xartexsan,SL",,,61,
+10098,Residència assistida per a gent gran - temporal o permanent,Residència assistida Edat3 Besalú,"C. Mallorca, s/n","Edat3 Besalú, SL",1 any i 1 mesinfo,41,4,45
+10099,Residència assistida per a gent gran - temporal o permanent,Residència Santa Anna,"C. Santa Anna, 41","Santa Anna Residència i Centre de Dia, SL",7 mesosinfo,60,6,66
+10100,Residència assistida per a gent gran - temporal o permanent,Residència geriàtrica Zoilo Feliu,"C. Hospital, 9",Ajuntament de La Bisbal d'Empordà,10 mesosinfo,57,5,62
+10101,Residència assistida per a gent gran - temporal o permanent,Hospital-Asil Sant Jaume,"C. Jaume Arcelós, 1",Corporació de Salut del Maresme i de la Selva,1 any i 11 mesosinfo,59,22,81
+10102,Residència assistida per a gent gran - temporal o permanent,Residència Clívia,"C. Auger, 44","Grup Orpanimar, S.L.",4 mesosinfo,58,6,64
+10103,Residència assistida per a gent gran - temporal o permanent,Residencial Blanes,"C. Josep Tarradellas, 44","Residencial Blanes, SL",3 mesosinfo,43,12,55
+10104,Residència assistida per a gent gran - temporal o permanent,Residència Sant Oleguer de Blanes,"C. Arnau Gatell, 7-9","Residencia Sant Oleguer Park, SL",,,30,
+10105,Residència assistida per a gent gran - temporal o permanent,Hospital de Cadaqués,"C. Guillem Bruguera, 10",Fundació Privada Hospital de Cadaqués,1 any i 10 mesosinfo,14,8,22
+10106,Residència assistida per a gent gran - temporal o permanent,Tesar Residencial,"Av. de Caldes, 4","Grup Servei Centre TC, SL",,,52,
+10107,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Sant Martí,"C. Dr. Josep M. Vilaseca, 39","Gran Via BCN, SL",,,67,
+10108,Residència assistida per a gent gran - temporal o permanent,Residència Calonge,"C. de la Barrera, 22","Prust Folner, SL",2 anys i 5 mesosinfo,11,24,35
+10109,Residència assistida per a gent gran - temporal o permanent,Residència Mar i Sol (servei de residència assistida),"Pça. de la Llibertat, 6","Picsemservice, SL",,,23,
+10110,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Campdevànol,"Psg. Cortaló, 5",Generalitat de Catalunya,7 mesosinfo,60,,
+10111,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Municipal L'Hospital,"Av. Lluís Jover, 3",Ajuntament de Camprodon,5 mesosinfo,38,20,58
+10112,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Sant Josep,"Rbl. 11 de setembre, 77",Ajuntament de Cassà de la Selva,1 any i 3 mesosinfo,51,23,74
+10115,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Sant Jordi,"C. del Gironès, s/n","Residència Geriàtrica Sant Jordi, SL",1 any i 8 mesosinfo,20,12,32
+10116,Residència assistida per a gent gran - temporal o permanent,Centre de serveis per a la gent gran Vall de Terri (servei de residència assistida),"C. Mossèn Jacint Verdaguer, 35","Vall del Terri, SL",2 mesosinfo,48,4,52
+10117,Residència assistida per a gent gran - temporal o permanent,Residència els Pins,"C. Closa d'en Llop, 87","Serturist, SA",8 mesosinfo,76,8,84
+10118,Residència assistida per a gent gran - temporal o permanent,Residència Pla de Martís,"C. Martís de Baix, s/n","Suara Equipaments Socials, SL",3 mesosinfo,52,2,54
+10119,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Els Arcs,"Ctr. de Llers, s/n",Generalitat de Catalunya,4 mesosinfo,84,,
+10122,Residència assistida per a gent gran - temporal o permanent,La Torre,"C. Sant Jordi, 1","Parx 2000, SL",1 any i 10 mesosinfo,12,19,31
+10124,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Creu de Palau,"C. Jocs Olímpics, 2",Generalitat de Catalunya,10 mesosinfo,222,,
+10125,Residència assistida per a gent gran - temporal o permanent,Sanitas Residencial Gerunda,"Av. Lluís Pericot, 45-45 A","Sanitas Mayores, SL",1 any i 6 mesosinfo,88,63,151
+10126,Residència assistida per a gent gran - temporal o permanent,Centre geriàtric Maria Gay,"C. Portal Nou, 12",Instituto de Religiosas de San José de Gerona,info,5,75,80
+10127,Residència assistida per a gent gran - temporal o permanent,Residència per a gent gran Can Regàs,"Av. Santa Eugènia, 60-62","Can Regàs, SA",info,6,42,48
+10128,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Puig d'en Roca,"C. Antoni Varés, 37",Generalitat de Catalunya,1 any i 2 mesosinfo,165,,
+10130,Residència assistida per a gent gran - temporal o permanent,Residència Bona Vista,"Ctr. Lladó a Navata, Km 2 (Mas Marca)","Pagés Alegrí, SL",4 anys info,11,29,40
+10131,Residència assistida per a gent gran - temporal o permanent,Hospital-Residència Josep Baulida (servei de residència assistida),"C. Hospital, 12",Patronat Municipal Hospital-Residència Josep Baulida,11 mesosinfo,52,6,58
+10132,Residència assistida per a gent gran - temporal o permanent,Residencia Continental,"C. Camí de les Cabres, 45-47","Residència Continental, SL",4 mesosinfo,77,2,79
+10133,Residència assistida per a gent gran - temporal o permanent,Asil Nicolàs Font (servei de residència assistida),"C. Vall de Venècia, 65",Fundació Asil Nicolàs Font,9 mesosinfo,15,1,16
+10134,Residència assistida per a gent gran - temporal o permanent,Residència d'avis Nostra Senyora de Foix,"C. Lloret de Mar, 31 A, Urbanització Mas Altaba","Residència d'avis Nostra Senyora de Foix, SL",4 mesosinfo,17,7,24
+10135,Residència assistida per a gent gran - temporal o permanent,Residència Santa Maria del Tura (servei de residència assistida),"C. Bisbe Guillamet, 5",Instituto de Religiosas de San José de Gerona,1 any i 8 mesosinfo,52,82,134
+10136,Residència assistida per a gent gran - temporal o permanent,Hospital de Sant Jaume,"C. Mulleras, 15",Fundació Antic Hospital Sant Jaume d'Olot,7 mesosinfo,48,21,69
+10137,Residència assistida per a gent gran - temporal o permanent,La Caritat (servei de residència assistida),"C. Lorenzana, 1",Fundació La Caritat,10 mesosinfo,45,16,61
+10138,Residència assistida per a gent gran - temporal o permanent,Residència geriàtrica Montsacopa,"C. del Rengle, 1",Consorci d'Acció Social de la Garrotxa,9 mesosinfo,97,4,101
+10139,Residència assistida per a gent gran - temporal o permanent,Residència Edat 3,"C. Estires, 31","Centre Actiu, SL",1 any i 1 mesinfo,26,6,32
+10140,Residència assistida per a gent gran - temporal o permanent,Residència la Tardor,"C. Pintor Galwey, 1","Residència la Tardor, SL",1 any i 10 mesosinfo,13,39,52
+10142,Residència assistida per a gent gran - temporal o permanent,Residència Assistida Palafrugell Gent Gran,"Av. Mestre Bonay, 15",Ajuntament de Palafrugell,1 any i 2 mesosinfo,120,30,150
+10143,Residència assistida per a gent gran - temporal o permanent,Residència Assistida Palamós Gent Gran,"C. Provença, 36",Fundació Hospital de Palamós-Serveis de Salut Integrats Baix Empordà,2 anys i 3 mesosinfo,50,15,65
+10144,Residència assistida per a gent gran - temporal o permanent,Residència Europalau,"C. Holanda, s/n","Europalau, SL",1 any i 2 mesosinfo,12,64,76
+10146,Residència assistida per a gent gran - temporal o permanent,Residència Municipal per a la gent gran Vall de Ribes,"Psg. Àngel Guimerà, 6",Ajuntament de Ribes de Freser,1 any i 3 mesosinfo,36,14,50
+10147,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Casal dels Avis de Ripoll (servei de residència assistida),"Av. Comte Guifré, s/n",Fundació Guifré,5 mesosinfo,55,15,70
+10149,Residència assistida per a gent gran - temporal o permanent,Residència Pi i Sunyer,"C. Josep Romañach, s/n","Vigo, SCCL",11 mesosinfo,96,42,138
+10151,Residència assistida per a gent gran - temporal o permanent,Residència Les Vetes,"C. Sant Antoni, 2",Fundació Privada Les Vetes,Sense llista d'accésinfo,3,51,54
+10152,Residència assistida per a gent gran - temporal o permanent,Sant Feliu de Guíxols Gent Gran,"Pça. Miquel Murlà, s/n",Ajuntament de Sant Feliu de Guixols,1 any i 5 mesosinfo,85,5,90
+10153,Residència assistida per a gent gran - temporal o permanent,Residència Surís Gent gran,"C. Sant Bonaventura, 35-53",Fundació Guíxols Surís,1 any i 6 mesosinfo,32,32,64
+10154,Residència assistida per a gent gran - temporal o permanent,Residència la Salut - Centre de serveis per a la gent gran,"Pça. ca les Hermanes, 1","Gestora d'Administració i Atenció a la Vellesa d'Olot i Comarca, Societat Limitada",,,21,
+10155,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Les Oliveres,"Urb. Can Simon, s/n","Resillar franquicia, SL",1 anyinfo,34,42,76
+10156,Residència assistida per a gent gran - temporal o permanent,Residència de la Tercera Edat els Avets,"C. Paratge Can Lladó, 6 (Sant Medir)","Residència de la Tercera Edat els Avets, SLU",1 any i 1 mesinfo,25,17,42
+10157,Residència assistida per a gent gran - temporal o permanent,Residència de gent gran Sant Hilari,"Psg. 14 d'abril, s/n",Ajuntament de Sant Hilari Sacalm,7 mesosinfo,57,18,75
+10158,Residència assistida per a gent gran - temporal o permanent,Fundació Emma-Residència Assistida,"Ctr. de Camprodon, 9",Fundació Emma,1 any i 10 mesosinfo,26,33,59
+10159,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Sant Salvador d'Horta - Servei de residència assistida,"C. Les Argiles, s/n",Ajuntament de Santa Coloma de Farners,1 any i 3 mesosinfo,79,4,83
+10160,Residència assistida per a gent gran - temporal o permanent,Residència Ca l'Oller,"C. Major, 32-34","Residència Ca l'Oller, SL",1 any i 8 mesosinfo,22,22,44
+10161,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Mas Moner,"C. Terri, s/n (Mas Moner)","Selvager, SL",,,32,
+10162,Residència assistida per a gent gran - temporal o permanent,Residència Torreblanca,"C. Sant Pere, 20","Suara Equipaments Socials, SL",4 mesosinfo,49,14,63
+10163,Residència assistida per a gent gran - temporal o permanent,Residència de Gent Gran Sils,"Ctr. C-555, Km 2,3 (Camps de l'Hostal-Mallorquines)","Residència de Gent Gran Sils, SL",1 any i 2 mesosinfo,54,26,80
+10164,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Vila Vella,"Psg. Vicenç Bou, 25",Fundació Privada Hospital-Asil de Pobres i Malalts de Torroella de Montgrí,11 mesosinfo,50,12,62
+10165,Residència assistida per a gent gran - temporal o permanent,Residència Santa Caterina,"C. Major, 56",Fundació Privada Hospital-Asil de Pobres i Malalts de Torroella de Montgrí,1 any i 1 mesinfo,17,7,24
+10166,Residència assistida per a gent gran - temporal o permanent,Residència Vila Montgrí,"C. Santa Caterina, 26","Residència Vila Montgrí, SL",2 anys i 6 mesosinfo,31,51,82
+10167,Residència assistida per a gent gran - temporal o permanent,Centre de serveis per a la gent gran Tossa de Mar(servei de residència assistida),"C. Vinya del Pla, s/n","Fundació Vallparadís, Fundació Privada Catalana",7 mesosinfo,29,6,35
+10168,Residència assistida per a gent gran - temporal o permanent,Centre de serveis gent gran - Mirador Puigsacalm (Residència),"Ctr. Vic, 3",Ajuntament de la Vall d'En Bas,info,15,65,80
+10170,Residència assistida per a gent gran - temporal o permanent,Residència els Cirerers,"C. Afores, s/n (Vilafreser)","Residència els Cirerers, SL",11 mesosinfo,39,17,56
+10171,Residència assistida per a gent gran - temporal o permanent,Centre geriàtric les Forques,"C. Pla de l'Estany, s/n","Emyme, SL",1 any i 1 mesinfo,67,7,74
+10172,Residència assistida per a gent gran - temporal o permanent,Residència el Jardí de l'Empordà,"C. Santa Llúcia, 4","Residència El Jardí de l'Empordà, SL",1 any i 2 mesosinfo,19,6,25
+10173,Residència assistida per a gent gran - temporal o permanent,Mini-Residència d'Avis de la Vall d'Àger,"C. La Font, s/n",Ajuntament d'Àger,6 mesosinfo,23,11,34
+10174,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Mas Vell (servei de residència assistida),"Pça. Mercadal, 15-17",Patronat Municipal Residència Geriàtrica Mas Vell,1 any i 11 mesosinfo,18,9,27
+10175,Residència assistida per a gent gran - temporal o permanent,Ribera del Sió(servei de residència assistida),"C. Dels Horts, 12","Resiurgell, SL",4 mesosinfo,50,17,67
+10176,Residència assistida per a gent gran - temporal o permanent,Residencial Sant Sebastià,"C. La Bassa, 113-117","Grup Caberol de Serveis, SL",7 mesosinfo,164,43,207
+10177,Residència assistida per a gent gran - temporal o permanent,Residència geriàtrica Pinyana (servei residència assistida),"Trv. Sant Sebastià, 11","Residència Geriàtrica Pinyana, SL",4 anys i 5 mesosinfo,11,17,28
+10178,Residència assistida per a gent gran - temporal o permanent,Residència per a la Gent Gran d'Almacelles,"C. Melcior Guàrdia, 78",Entitat Pública Empesarial Local Residència d'Avis d'Almacelles,2 anys i 3 mesosinfo,30,13,43
+10179,Residència assistida per a gent gran - temporal o permanent,Residència assistida Betula Alba,"C. Partida Pla de la Creu, s/n (Poligon Industrial)","Venso, SA",,,66,
+10180,Residència assistida per a gent gran - temporal o permanent,Residència 3a edat Bona Estada,"C. Pont del Molí, s/n","Residència Bona Estada Almenar 2000, SL",2 anysinfo,38,34,72
+10181,Residència assistida per a gent gran - temporal o permanent,Residència geriàtrica Vell d'Or,"C. Centre, 43",Josep Maria Samarà Calveres,11 mesosinfo,15,7,22
+10182,Residència assistida per a gent gran - temporal o permanent,Llar Residència l'Esplai,"C. Partida Reg Nou, s/n","Llar Residència l'Esplai, SL",1 any i 3 mesosinfo,45,9,54
+10183,Residència assistida per a gent gran - temporal o permanent,Residència Assistida d'Anglesola,"C. Lourdes, 1-3",Ajuntament d'Anglesola,8 mesosinfo,7,2,9
+10184,Residència assistida per a gent gran - temporal o permanent,Residència Municipal d'Arbeca,Av. President Josep Tarradelles,Ajuntament d'Arbeca,1 any i 1 mesinfo,12,21,33
+10185,Residència assistida per a gent gran - temporal o permanent,Llar-residència Municipal d'Artesa de Segre (servei de residència assistida),"C. Escoles, 2",Ajuntament d'Artesa de Segre,8 mesosinfo,21,13,34
+10186,Residència assistida per a gent gran - temporal o permanent,Residència Santa Teresa Jornet (servei de residència assistida),"Av. 27 de gener, 34",Hogar Sta.Teresa Jornet en Aitona Hermanitas Hnos.Desamp.Prov.Zaragoza,,,36,
+10187,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Sant Domènec de Balaguer (servei de residència assistida),"Av. Comte Jaume d'Urgell, 1",Associació Residència Geriàtrica Sant Domènec de Balaguer,1 any i 8 mesosinfo,38,62,100
+10188,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Comtes d'Urgell,"C. Sant Diego de Califòrnia, 16-42",Generalitat de Catalunya,4 mesosinfo,84,,
+10189,Residència assistida per a gent gran - temporal o permanent,Residència geriàtrica Santa Maria,"Pça. del Jutge, s/n","Centre assistencial la Noguera, SL",5 mesosinfo,37,14,51
+10190,Residència assistida per a gent gran - temporal o permanent,Residència Barbens,"Pça. Mestre Benet, 6-7","Serveis Lleida Global Grup, SL",8 mesosinfo,33,16,49
+10191,Residència assistida per a gent gran - temporal o permanent,Residència Barbens II,"C. Nord, 11","Serveis Lleida Global Grup, SL",7 mesosinfo,24,10,34
+10192,Residència assistida per a gent gran - temporal o permanent,Residència geriàtrica Pla d'Urgell,"Ctr. Nacional II, núm. 3","Residència Geriàtrica Pla d'Urgell, SL",1 mesinfo,18,1,19
+10193,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Sant Bartomeu,"Ctr. de Belianes, s/n",Generalitat de Catalunya,4 mesosinfo,61,,
+10194,Residència assistida per a gent gran - temporal o permanent,Residència Bellpuig,"C. Sant Isidre, 10","Residència Bellpuig, SL",6 mesosinfo,37,30,67
+10195,Residència assistida per a gent gran - temporal o permanent,Mini-residència Geriàtrica de Bellver de Cerdanya,"C. Prat de la Riba, 18",Fundació Pública de Serveis Sant Roc (Ajuntament de Bellver de Cerdanya),8 mesosinfo,25,5,30
+10196,Residència assistida per a gent gran - temporal o permanent,Residència Lantus Bellvis,"Av. Pla d'Urgell, 1","Grup Lantus, SL",2 anys i 8 mesosinfo,15,97,112
+10197,Residència assistida per a gent gran - temporal o permanent,Residència d'avis el Sagrat Cor de Benavent de Segrià,"Av. Països Catalans, s/n","Residència d'avis el Sagrat Cor de Benavent de Segrià, SA",9 mesosinfo,27,5,32
+10198,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Les Garrigues,"C. Marius Torres, 5",Generalitat de Catalunya,9 mesosinfo,59,,
+10199,Residència assistida per a gent gran - temporal o permanent,Residència Cal Tomeu,"C. Vilalta, s/n","Torra Sorribes, SL",6 mesosinfo,30,22,52
+10200,Residència assistida per a gent gran - temporal o permanent,Hospital Berenguer de Castelltort-Residència Mare Güell (servei de residència assistida),"C. Hospital, 14",Fundació Privada Hospital Berenguer de Castelltort,3 anys i 1 mesinfo,15,35,50
+10201,Residència assistida per a gent gran - temporal o permanent,Residència Mare Janer (servei de residència assistida),"C. Major, 64",Fundació Casa de Caritat - Residència Mare Janer,8 mesosinfo,29,27,56
+10202,Residència assistida per a gent gran - temporal o permanent,Residència Verge del Castell,"C. Aixera Eral, s/n","Rescu Serveis, SL",9 mesosinfo,17,18,35
+10203,Residència assistida per a gent gran - temporal o permanent,Residència de Gent Gran d'Esterri d'Àneu,"Pça. Bon Consell, 1",Ajuntament d'Esterri d'Àneu,4 mesosinfo,24,10,34
+10204,Residència assistida per a gent gran - temporal o permanent,Residència de La Fuliola,"Pça. Alcalde Jaume Ferrer, s/n","Serveis Lleida Global Grup, SL",2 anys i 4 mesosinfo,14,54,68
+10205,Residència assistida per a gent gran - temporal o permanent,Residència de la Fundació Privada Agropecuària de Guissona (servei de residència assistida),"Rbl. Segadors, 57",Fundació bonArea,9 mesosinfo,117,66,183
+10206,Residència assistida per a gent gran - temporal o permanent,Residència Municipal d'Avis de Juneda,"Pça. Poeta Jacint Rosinach, 1",Patronat Municipal Assistencial de la Residència d'Avis de Juneda,2 anys i 5 mesosinfo,41,11,52
+10207,Residència assistida per a gent gran - temporal o permanent,Residència l'Anunciata,"Pça. Catalunya, 11","Gericed, S.L.",7 mesosinfo,46,20,66
+10208,Residència assistida per a gent gran - temporal o permanent,Residència La Nostra Llar Sant Jaume I,"C. Sant Francesc de Sales, 11, 1er",Fundació Privada Llar Sant Jaume,6 mesosinfo,10,2,12
+10209,Residència assistida per a gent gran - temporal o permanent,Residència la Nostra Llar Sant Jaume II,"C. Hostal de la Bordeta, 18, 1er",Fundació Privada Llar Sant Jaume,1 any i 1 mesinfo,11,3,14
+10210,Residència assistida per a gent gran - temporal o permanent,Adesma Residència Bordeta,"Av. Artesa, 68",Adesma Fundació Privada,8 mesosinfo,21,,
+10211,Residència assistida per a gent gran - temporal o permanent,Llar-residència per a gent gran Parc del Segre,"C. Isaac Albéniz, 11","Ilerda Residencial, SA",2 anys i 4 mesosinfo,23,44,67
+10212,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Sant Josep,"C. de la Mercè, 10-12",Generalitat de Catalunya,1 any i 2 mesosinfo,90,,
+10213,Residència assistida per a gent gran - temporal o permanent,Residència La Teva Llar,"C. Paer Casanovas, 12, baixos","Residència la Teva Llar, SL Unipersonal",3 anys i 9 mesosinfo,6,25,31
+10214,Residència assistida per a gent gran - temporal o permanent,Centre Geriàtric Verge de Montserrat (servei de residència assistida),"C. Pi i Margall, 21, 1er","Residència Ballesal, SRL",5 mesosinfo,15,9,24
+10215,Residència assistida per a gent gran - temporal o permanent,Sanitas Residencial Ilerda,"C. Vic, 5-7","Sanitas Mayores, SL",4 anys i 1 mesinfo,45,65,110
+10216,Residència assistida per a gent gran - temporal o permanent,Centre Gerontològic Myces (servei de residència assistida),"C. Terrassa, 17","Centre Gerontològic Myces, SL",2 anys i 3 mesosinfo,41,55,96
+10217,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Balàfia I,C. Josep Olondriz (cantonada Av. Balàf,Generalitat de Catalunya,1 any i 1 mesinfo,96,,
+10218,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Balàfia II,C. Vic ( Cantonada Maials),Generalitat de Catalunya,1 any i 6 mesosinfo,60,,
+10219,Residència assistida per a gent gran - temporal o permanent,Adesma Residència Sant Antoni de Pàdua,"C. Maria Sauret, 3",Adesma Fundació Privada,8 mesosinfo,82,25,107
+10220,Residència assistida per a gent gran - temporal o permanent,Residència Vilot,"C. Sant Jordi, 10 (Suchs)","Residència Vilot, SL",8 mesosinfo,14,6,20
+10221,Residència assistida per a gent gran - temporal o permanent,Centre residencial Joviar,"C. Camí Montcada, 90","Centre Residencial Joviar, SL",8 mesosinfo,76,10,86
+10222,Residència assistida per a gent gran - temporal o permanent,Residència Centre Geriàtric Lleida,"Ctr. Vall d'Aran, Km 4","Centre Geriàtric Lleida, SL",4 anysinfo,9,82,91
+10223,Residència assistida per a gent gran - temporal o permanent,Residència Bon Lloc (servei de residència assistida),"C. Partida Torres de Sanui, 147",Montserrat Tornero Lorente,,,16,
+10224,Residència assistida per a gent gran - temporal o permanent,Residencia Emera Lleida,"C. Enric Farreny, 60","Residencia Castrillón, SL",,,139,
+10225,Residència assistida per a gent gran - temporal o permanent,Residència Geriàtrica Maldà,"Pça. Homenatge a la Vellesa, 1",Ajuntament de Maldà,10 mesosinfo,12,8,20
+10226,Residència assistida per a gent gran - temporal o permanent,Casa Familiar Josep Jaques,"Av. del Canal, s/n","Hermanos Franciscanos de Cruz Blanca, Zona Cataluña",1 any i 5 mesosinfo,29,4,33
+10227,Residència assistida per a gent gran - temporal o permanent,Caser Residencial Castell d'Oliana,Ctr. Artesa de Segre - Adrall Km.143,"Caser Residencial, SAU",7 mesosinfo,75,18,93
+10228,Residència assistida per a gent gran - temporal o permanent,Mini-residència d'avis municipal Verge d'Aguilar,"Av. de Lleida, 3",Ajuntament d'Os de Balaguer,3 mesosinfo,22,3,25
+10229,Residència assistida per a gent gran - temporal o permanent,Centre Residencial ca la Cileta (servei de residència assistida),"C. Mollerussa, 16",Ajuntament del Palau d'Anglesola,1 any i 11 mesosinfo,34,9,43
+10230,Residència assistida per a gent gran - temporal o permanent,Centre geriàtric del Pirineu,"C. Indústria, 3","Centre Geriàtric del Pirineu, SL",1 mesinfo,64,13,77
+10231,Residència assistida per a gent gran - temporal o permanent,Residència Nostra Senyora de Ribera (servei de residència assistida),"C. Mare Güell, 1",Ajuntament de La Pobla de Segur,3 mesosinfo,47,26,73
+10232,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Ponts,"Av. Font dels Valldans, 7",Generalitat de Catalunya,3 mesosinfo,28,,
+10233,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Alta Ribagorça,"C. Salencar, s/n",Generalitat de Catalunya,2 mesosinfo,38,,
+10234,Residència assistida per a gent gran - temporal o permanent,Residència El Pati,"C. de les Eres, 1","Residència El Pati, SL",6 mesosinfo,14,2,16
+10235,Residència assistida per a gent gran - temporal o permanent,Residència Mirador del Segrià,"Av. L'Esport, 27","Mirador de Segrià, SL",9 mesosinfo,37,11,48
+10236,Residència assistida per a gent gran - temporal o permanent,"Residència ""La Vall""","Ctr. de Berga, s/n",Fundació La Vall,7 mesosinfo,40,9,49
+10237,Residència assistida per a gent gran - temporal o permanent,Residència assistida Fundació Sant Hospital,"C. Bisbe Benlloch, 9, 3er",Fundació Sant Hospital La Seu d'Urgell,2 anys i 6 mesosinfo,14,,
+10238,Residència assistida per a gent gran - temporal o permanent,Llar Sant Josep (servei de residència assistida),"C. Camí Ral de Cerdanya, 7",Hermanitas de los Ancianos Desamparados - La Seu d'Urgell,,,28,
+10239,Residència assistida per a gent gran - temporal o permanent,Residència Hospital Pere Màrtir Colomés,"Pça. Antoni Guitart, 1",Fundació Privada Hospital Pere Màrtir Colomes,1 any i 1 mesinfo,56,45,101
+10240,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Serafí Casanovas Sansa,"Ctr. de la Seu d'Urgell, 8",Generalitat de Catalunya,1 mesinfo,40,,
+10241,Residència assistida per a gent gran - temporal o permanent,Residència de la gent gran Sant Antoni de Tàrrega,"C. Hospital, 2",Fundació Residència Gent Gran Sant Antoni de Tàrrega,1 any i 5 mesosinfo,53,24,77
+10242,Residència assistida per a gent gran - temporal o permanent,Llar d'avis del Carme,"Pça. del Carme, 12","Ottaresidència, SL",3 anys i 2 mesosinfo,15,69,84
+10243,Residència assistida per a gent gran - temporal o permanent,Mini Residència d'Avis Verge de l'Aguda,"Pge. de l'Alcaldessa, s/n",Ajuntament de Torà,4 mesosinfo,22,,
+10244,Residència assistida per a gent gran - temporal o permanent,Residència assistida per a gent gran Sant Josep,"C. Almalcelles, s/n (Malpartit)","UNAGRANFAMILIA 2014, SL",3 anys info,5,44,49
+10245,Residència assistida per a gent gran - temporal o permanent,Residència assistida Sant Guardià,"C. Onze de Setembre, s/n","Residència Sant Guardià, SL",3 anys i 4 mesosinfo,11,89,100
+10246,Residència assistida per a gent gran - temporal o permanent,Residència ICAD. Institut Català d'Assistència Domiciliària,"C. Calvari, 3-5",Institut Català d'Assistència Domiciliària SL,2 anysinfo,35,34,69
+10247,Residència assistida per a gent gran - temporal o permanent,Residència geriàtrica Sant Hospital de Tremp (servei de residència assistida),"Pça. Mossèn Casimir Torrent, 1",Sant Joan de Déu Terres de Lleida,4 mesosinfo,86,54,140
+10248,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Sant Pere Claver,"C. Molí de Vent, s/n",Generalitat de Catalunya,4 mesosinfo,36,,
+10249,Residència assistida per a gent gran - temporal o permanent,Llar Mare Marcel·lina,"C. Molí de Vent, 2, B",Hermanas de los Pobres de San Pedro Claver,7 mesosinfo,30,26,56
+10250,Residència assistida per a gent gran - temporal o permanent,Residència Sant Antoni,"C. Espitau, s/n",Conselh Generau d'Aran,,,44,
+10251,Residència assistida per a gent gran - temporal o permanent,Residència Municipal de Vilanova de Bellpuig,"C. Pare Pacífic, 2-4",Ajuntament de Vilanova de Bellpuig,2 anys i 10 mesosinfo,19,36,55
+10252,Residència assistida per a gent gran - temporal o permanent,Residència Josep Torrent,"Ctr. de Mollerussa a Linyola, Km 2 (Merlets)",Josep Torrent Puig,7 mesosinfo,26,,
+10253,Residència assistida per a gent gran - temporal o permanent,Residencia para la Tercera Edad Sant Roc,"Ctr. C-1313, Km 11'7","Residencia para la Tercera Edad ""Sant Roc"", Sociedad Anónima",7 mesosinfo,62,29,91
+10254,Residència assistida per a gent gran - temporal o permanent,Llar dels Nostres Avis,"Av. d'Alpicat, 27","Llar dels Nostres Avis, SL",4 mesosinfo,59,3,62
+10255,Residència assistida per a gent gran - temporal o permanent,Centre de Serveis L'Onada Alcanar (residència ass.),"C. Càlig, 75","Residència Tercera Edat L'Onada, SL",1 any i 5 mesosinfo,43,33,76
+10256,Residència assistida per a gent gran - temporal o permanent,Llar d'avis la Mimosa,"C. Camí del Milà, s/n","Frisal, Serveis per la gent gran, SL",7 mesosinfo,29,2,31
+10257,Residència assistida per a gent gran - temporal o permanent,Residència-Casal dels Avis d'Alforja,"Pça. Dalt, 1",Fundació Casal dels Avis d'Alforja,5 mesosinfo,33,8,41
+10258,Residència assistida per a gent gran - temporal o permanent,Residència assistida per a la gent gran de l'Ametlla de Mar,"c. Onze de setembre, 45 (cant. Av. de l'Ensenyament)","Residència Tercera Edat L'Onada, SL",1 any i 5 mesosinfo,46,41,87
+10259,Residència assistida per a gent gran - temporal o permanent,Llar-residència per a gent gran d'Amposta,"C. Sant Cristòfol, 278-280",Fundació Privada Serveis Socials del Montsià,7 mesosinfo,155,5,160
+10260,Residència assistida per a gent gran - temporal o permanent,Residència-Hospital Sant Antoni Abat,"C. Hospital, 52",Fundació Pública Municipal Sant Antoni Abat,1 anyinfo,18,27,45
+10261,Residència assistida per a gent gran - temporal o permanent,Residència de la gent gran d'Ascó,"C. Residència, 2","Rojar assistència sociosanitària, SA unipersonal",9 mesosinfo,25,15,40
+10262,Residència assistida per a gent gran - temporal o permanent,Residència d'avis de Batea,"C. del Cos, 10","SAGESSA, Assistència Sanitària i Social, SA",4 mesosinfo,50,10,60
+10263,Residència assistida per a gent gran - temporal o permanent,Residencial el Colomé,"C. Lleida, s/n","Residencial El Colomé, SL",1 any i 11 mesosinfo,17,11,28
+10264,Residència assistida per a gent gran - temporal o permanent,Residència Mare de Déu de la Riera,"C. Mossèn Jacint Verdaguer, 13 bis",Fundació Mimara,2 mesosinfo,32,1,33
+10266,Residència assistida per a gent gran - temporal o permanent,Residencia La Palmera de los Angeles,"C. Garona, 5","Alzina Residencial, SL",1 any i 10 mesosinfo,18,14,32
+10267,Residència assistida per a gent gran - temporal o permanent,Mimara Calafell Park,"C. Lluís Companys, 49-50","Adquisición, Conservación y Explotación de Bienes Inmuebles ACEBI, SL",3 mesosinfo,67,21,88
+10268,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Baix Camp,"C. Bertran de Cambrils, 2",Generalitat de Catalunya,9 mesosinfo,52,,
+10269,Residència assistida per a gent gran - temporal o permanent,Colisée Cambrils,"C. Camí Corralet, 21","La Saleta Care, SL",2 mesosinfo,108,1,109
+10270,Residència assistida per a gent gran - temporal o permanent,Residència Cambrils Suite,"Ctr. Cambrils a Montbrió, Km 3",Fundació Vallparadís Axioma Dependència (UTE),5 mesosinfo,92,27,119
+10271,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran La Sénia,"C. Jaume I, 42",Generalitat de Catalunya,11 mesosinfo,28,,
+10272,Residència assistida per a gent gran - temporal o permanent,Residencia la Ermita,"C. Pintor Joaquim Suñé, 33 (Urb. La Coma)","Residència la Ermita, SA",11 mesosinfo,25,11,36
+10273,Residència assistida per a gent gran - temporal o permanent,Mimara Creixell,"C. Egara, 3","Mimara Residencial, SL",3 mesosinfo,49,12,61
+10274,Residència assistida per a gent gran - temporal o permanent,Residència Santa Ana,"C. Rosselles, 4-6","Gerifas-98, SL",5 mesosinfo,31,4,35
+10275,Residència assistida per a gent gran - temporal o permanent,Alzina Residencial (servei de residència assistida),"C. Salvador Nonell, 8","Alzina Residencial, SL",9 mesosinfo,39,13,52
+10276,Residència assistida per a gent gran - temporal o permanent,Caser Residencial Cunit,"C. Osona, s/n","Novallar de Cunit, SL",1 any i 3 mesosinfo,60,85,145
+10277,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Jaume I,"C. Sant Vicenç de Paül, 20",Generalitat de Catalunya,9 mesosinfo,80,,
+10278,Residència assistida per a gent gran - temporal o permanent,Residència Les Vinyes,"Av. Josep M. Gich, 3","Corfalin, SL",2 mesosinfo,119,16,135
+10279,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Les Escoles Velles,"C. Escoles, 39",Generalitat de Catalunya,3 mesosinfo,90,,
+10280,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Gandesa,"Ctr. de Bot, s/n",Generalitat de Catalunya,4 mesosinfo,54,,
+10281,Residència assistida per a gent gran - temporal o permanent,Geriàtric Guiamets,"Av. La Carretera, 55","Geriàtric Guiamets, SL",7 mesosinfo,21,10,31
+10282,Residència assistida per a gent gran - temporal o permanent,Vitalia Llorenç (Residència assistida),"C. Camino cal Prosset, 15","Vitalia Suite, SL",6 mesosinfo,110,11,121
+10283,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Conca Barberà,"Av. Manel Ribé, 46-48",Generalitat de Catalunya,1 anyinfo,70,,
+10284,Residència assistida per a gent gran - temporal o permanent,Residència Montblanc,"C. Aguilò, 1","Masdosir, SL",,,60,
+10285,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Natzaret,"C. Miracle Descàrrega, s/n",Generalitat de Catalunya,8 mesosinfo,78,,
+10286,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Móra la Nova,"Av. de l'Estació, s/n",Generalitat de Catalunya,11 mesosinfo,30,,
+10287,Residència assistida per a gent gran - temporal o permanent,Sophos Els Pallaresos,"C. Camí dels Plans, s/n (Urb. els Hostalets)","Sophos Gestió, SL",5 mesosinfo,110,100,210
+10288,Residència assistida per a gent gran - temporal o permanent,Residència Casa del poble del Perelló,"Av. Catalunya, 2",Fundació per a l'atenció social,1 any i 3 mesosinfo,57,19,76
+10289,Residència assistida per a gent gran - temporal o permanent,Mimara El Pla de Santa Maria,"C. Major, 27",Mimara el Pla Residencial SLU,1 any i 6 mesosinfo,16,24,40
+10290,Residència assistida per a gent gran - temporal o permanent,Residencia San Jaime,"C. Riera Miró, 123",Mª Teresa Pérez Veleda,4 mesosinfo,15,10,25
+10291,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Roger de Llúria,"C. Roger de Llúria, 2 B-8",Generalitat de Catalunya,3 mesosinfo,99,,
+10293,Residència assistida per a gent gran - temporal o permanent,Natura Residencial,"Psg. Mata, 1","Llar Geriàtrica Residencial Verge de Lourdes, SL",5 mesosinfo,50,20,70
+10295,Residència assistida per a gent gran - temporal o permanent,Residencia Centro Evangélico FIEIDE de Asistencia a la Tercera Edad,"C. Cervantes, 1",Centro Evangélico FIEIDE de Asistencia a la Tercera Edad,4 mesosinfo,18,4,22
+10296,Residència assistida per a gent gran - temporal o permanent,Residència Horts de Miró,"C. Maria Antònia París, 10",Ajuntament de Reus,4 mesosinfo,58,,
+10297,Residència assistida per a gent gran - temporal o permanent,Residència Itaca-Fortuny,"C. Condesito, 5","Itaca Fortuny, SL",5 mesosinfo,63,18,81
+10298,Residència assistida per a gent gran - temporal o permanent,Residencia Itaca-Reus,"C. Vicaria, 8","Unión de Residencias Reus, SL",3 mesosinfo,56,18,74
+10300,Residència assistida per a gent gran - temporal o permanent,Residència Marià Fortuny,"C. Escultor Sunyol, s/n","SAGESSA, Assistència Sanitària i Social, SA",4 mesosinfo,52,12,64
+10301,Residència assistida per a gent gran - temporal o permanent,Residencia assistida Colisée Misericordia,"C. Isabel Villena, 2","La Saleta Care, SL",11 mesosinfo,102,46,148
+10302,Residència assistida per a gent gran - temporal o permanent,Residència Passeig Prim (servei de residència assistida),"C. Baldomero Galofré, 3-5","Residència Passeig Prim, SL",1 any i 1 mesinfo,7,43,50
+10303,Residència assistida per a gent gran - temporal o permanent,Residència 3a Edat i Centre de Serveis L'Onada Riudoms (servei de residència assistida),"C. Salvador Espriu, 65","Residència Tercera Edat L'Onada, SL",8 mesosinfo,75,19,94
+10304,Residència assistida per a gent gran - temporal o permanent,Hotel Residencia Geriátrica Bará Bahía,"C. Vall d'Aran, 7","Bará Bahía, SL",1 any i 2 mesosinfo,31,7,38
+10305,Residència assistida per a gent gran - temporal o permanent,Colisée Roda Barà,"C. Mirador de Barà, s/n","La Saleta Care, SL",3 mesosinfo,80,8,88
+10306,Residència assistida per a gent gran - temporal o permanent,Residència L'Onada Golden Beach,"Av. Països Catalans, 30","L'Onada Golden Beach, SL",7 mesosinfo,108,26,134
+10307,Residència assistida per a gent gran - temporal o permanent,Residència assistida Centre Vima,"Av. dels Esports, 27","Serveis de Geriatria Alfacs, SL",7 mesosinfo,130,50,180
+10308,Residència assistida per a gent gran - temporal o permanent,"Llar-residència ""Ntra. Sra. del Carme""","Ctr. de la Llacuna, 9",Consorci Sociosanitari de Santa Coloma de Queralt,9 mesosinfo,46,24,70
+10309,Residència assistida per a gent gran - temporal o permanent,Residència assistida Policlínica Comarcal del Vendrell,"Av. Santa Oliva, 51-53","Policlínica Comarcal de El Vendrell, S.L.",4 mesosinfo,24,,
+10310,Residència assistida per a gent gran - temporal o permanent,Residència per a la gent gran el Vilar,"C. del Vilar, 2",Fundació Pública Municipal el Vilar,1 any i 3 mesosinfo,53,37,90
+10311,Residència assistida per a gent gran - temporal o permanent,Residència Les Alzines,"Av. Reina Maria Cristina, 17 (Antic hospital C. Roja)","Mayorex, SL",4 mesosinfo,117,34,151
+10312,Residència assistida per a gent gran - temporal o permanent,Residencial Tarragona,"Av. Catalunya, 54","Sanitas Mayores, SL",1 any i 8 mesosinfo,99,113,212
+10313,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Mare de Déu de la Mercè,"C. Camí de la Cuixa, 1-B",Generalitat de Catalunya,1 any i 1 mesinfo,180,,
+10314,Residència assistida per a gent gran - temporal o permanent,Residència Santa Tecla Ponent,C. Menorca - Barri La Granja,"Fundació Sociosanitària i Social Santa Tecla, Fundació Privada",1 any i 3 mesosinfo,93,32,125
+10315,Residència assistida per a gent gran - temporal o permanent,Residència Santa Tecla Llevant,"C. Joan Fuster, s/n","Fundació Sociosanitària i Social Santa Tecla, Fundació Privada",1 any i 2 mesosinfo,43,17,60
+10316,Residència assistida per a gent gran - temporal o permanent,Residència assistida Pere Badia,"C. Pere Badia, 2",Fundación Privada Pere Badia - Hospital de la Caritat de Torredembarra,1 any i 11 mesosinfo,70,23,93
+10317,Residència assistida per a gent gran - temporal o permanent,Residència Diocesana d'Ancians Sant Miquel Arcàngel,"C. Poeta Vicenç Garcia, 28",Residència Diocesana d'Ancians Sant Miquel Arcàngel de Tortosa,1 any i 7 mesosinfo,75,70,145
+10318,Residència assistida per a gent gran - temporal o permanent,Residència per a Gent Gran Hospital i Llars de la Santa Creu,"C. Mossèn Valls, 1","Gestió Sanitària i Assistencial de Tortosa, Societat Anònima Municipal",1 any i 2 mesosinfo,105,,
+10319,Residència assistida per a gent gran - temporal o permanent,Centre de Serveis l'Onada Tortosa (Residència Assistida),"C. Bisbe Serra, 6","Residència Tercera Edat L'Onada, SL",1 any i 6 mesosinfo,59,69,128
+10320,Residència assistida per a gent gran - temporal o permanent,Residència d'Ulldecona (servei de residència assistida),"Av. Generalitat, 14",Ajuntament d'Ulldecona,1 any i 1 mesinfo,37,5,42
+10321,Residència assistida per a gent gran - temporal o permanent,Residència Alt Camp,"C. Camí del Bosc, 16",Fundació privada Vilaniu per a l'atenció a la dependència,11 mesosinfo,70,21,91
+10322,Residència assistida per a gent gran - temporal o permanent,Residència Santa Teresa (servei de residència assistida),"C. Santa Teresa, 4",Carmelitas Misioneras Teresianas,3 anys i 7 mesosinfo,12,88,100
+10323,Residència assistida per a gent gran - temporal o permanent,Residència Casa Montserrat Cuadrada (servei de residència assistida),"C. Costa del Portal Nou, 5",Fundació privada Vilaniu per a l'atenció a la dependència,6 mesosinfo,41,11,52
+10324,Residència assistida per a gent gran - temporal o permanent,Mimara Valls,"Ctr. del Plà de Santa Maria, 86",Mimara Valls Residencial SLU,3 mesosinfo,43,19,62
+10326,Residència assistida per a gent gran - temporal o permanent,Residència Vandellós,"C. Dr. Alfredo Simon, 2",Ajuntament de Vandellós,Menys d’1 mesinfo,5,10,15
+10327,Residència assistida per a gent gran - temporal o permanent,Residència d'Avis la Muntanyeta del Vendrell,"C. Atzavara, 5",Patronat Municipal Hospital Asil del Santíssim Salvador del Vendrell,1 any i 5 mesosinfo,79,11,90
+10328,Residència assistida per a gent gran - temporal o permanent,Residència Llar Santa Anna (servei de residència assistida),"C. Dr. Olivé, 5-7",Residència Fundació Llar Santa Anna,,,32,
+10330,Residència assistida per a gent gran - temporal o permanent,Residència de Deltebre,"C. Madrid, s/n","Residència Tercera Edat L'Onada, SL",6 mesosinfo,85,10,95
+10331,Residència assistida per a gent gran - temporal o permanent,Centre sociosanitari i residència Colisée Salou,"Av. Pau Casals, s/n","La Saleta Care, SL",10 mesosinfo,73,26,99
+10424,Residència assistida per a gent gran - temporal o permanent,Residència Maristany,"C. de la Mar Jonica, 9, Local","Residència Maristany, SL",info,2,23,25
+10425,Residència assistida per a gent gran - temporal o permanent,Residencia Colisée Barcelona Paral·lel,"Av. Paral·lel, 63","La Saleta Care, SL",2 anys i 2 mesosinfo,45,222,267
+10426,Residència assistida per a gent gran - temporal o permanent,Residència Maragall,"Psg. Maragall, 295-297","MAR ASSET, SL",5 mesosinfo,15,110,125
+10427,Residència assistida per a gent gran - temporal o permanent,Residència Solarium,"C. Tiziano, 21-29",Comunidad Residencia Santa Cruz de Vallcarca,,,35,
+10429,Residència assistida per a gent gran - temporal o permanent,Residència de Begues,"C. Ferran Muñoz, 3",Ajuntament de Begues,,,30,
+10430,Residència assistida per a gent gran - temporal o permanent,Residència Assistida Berga Residencial,"Psg. de la Industria, 11",Berga Residencial S.L,,,99,
+10432,Residència assistida per a gent gran - temporal o permanent,Prytanis Plaça Europa,"C. Amadeu Torner, 48","Prytanis Gran Via, SL",info,23,121,144
+10433,Residència assistida per a gent gran - temporal o permanent,Residència Colisée Igualada,"C. Sant Carles, 41","La Saleta Care, SL",info,7,84,91
+10434,Residència assistida per a gent gran - temporal o permanent,Residència Eixample El Prat,"C. Jaume Casanovas, 243","Residència Eixample El Prat, SL",1 any i 3 mesosinfo,19,89,108
+10435,Residència assistida per a gent gran - temporal o permanent,Residència Assistida Barcelona,"C. Sant Pere, 2","Residència Barcelona, S.L.",,,73,
+10436,Residència assistida per a gent gran - temporal o permanent,Residència Seniors Ceritània,"Rbl. de Montserrat, 2","Residencias Familiares para Mayores, S.L.",,,76,
+10437,Residència assistida per a gent gran - temporal o permanent,Residència La Vostra Llar Terrassa,"C. Puig Novell, 20",La Vostra Llar Terrassa S.L,,,72,
+10440,Residència assistida per a gent gran - temporal o permanent,Residència Assistida La Calma Residencial,"Av. Londres, 4","Calma Inversalus, SL",,,78,
+10441,Residència assistida per a gent gran - temporal o permanent,Bouco Girona,"Av. Josep Tarradellas i Joan, 19","Emeis Ibérica, SAU",,,147,
+10442,Residència assistida per a gent gran - temporal o permanent,Residència Assistida Palamós Mar,"C. President Macià, 8",Residencial Palamos Mar S.L.,info,17,46,63
+10443,Residència assistida per a gent gran - temporal o permanent,Centre Residencial Gironès,"C. Major, 19","Sinergies pel benestar, SL",,,36,
+10444,Residència assistida per a gent gran - temporal o permanent,Residència Castellserà,"C. Migdia, 8","Serveis Lleida Global Grup, SL",info,1,26,27
+10445,Residència assistida per a gent gran - temporal o permanent,Residència de gent gran El Tossalet,"C. Era, 64","Persona i Valors, Fundació de Serveis i Iniciatives Socialsde les Comarques de Lleida",,,24,
+10446,Residència assistida per a gent gran - temporal o permanent,Residència Assistida Clecevitam Ponent,"C. Jaume II, 57",Clece Vitam S.A,info,4,146,150
+10447,Residència assistida per a gent gran - temporal o permanent,Domusvi Lleida,"C. Republica de Paraguay, 20","SAR Residencial y Asistencial,SAU",,,124,
+10448,Residència assistida per a gent gran - temporal o permanent,Ballesol - Reus,"C. Batàn, 28","Intercentros Ballesol, SA",info,9,108,117
+10449,Residència assistida per a gent gran - temporal o permanent,Clecevitam Daurada,"C. Maternitat d'Elna, 1",Clece Vitam S.A,info,15,157,172
+10484,Residència assistida per a gent gran - temporal o permanent,Domusvi Girona Ciutat,"C. Francesc Ferrer i Girones, 14","SAR Residencial y Asistencial,SAU",,,120,
